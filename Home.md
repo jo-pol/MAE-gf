@@ -10,6 +10,9 @@ All patterns are links to the Groundforge main page. Follow the link and click `
 The pictures in this wiki are mostly made in Knipling (TM).   
 Most pair-diagrams are the styled versions that Groundforge understands. Red lines indicate the unit for the checkers-tiling, blue lines indicate the unit for the blocks tiling.
 
+### Other links
+[Whiting Index](http://gwydir.demon.co.uk/jo/lace/whiting/index.htm#picindex): Jo Edkins created an annotated online index on the grounds in _A Lace Guide for Makers and Collectors_ by Gertrude Whiting which dates from 1920.
+
 ### Disclaimer
 All links worked when created. Due to work on the Groundforge coding, there may be hiccups.
 
