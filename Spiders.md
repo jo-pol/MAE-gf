@@ -10,7 +10,6 @@
    
 ## Introduction
 On this page we show (via links) examples of matrices for grounds with spiders.     
-The pictures are the styled versions of pair-diagrams as Groundforge understands them. The red lines indicate the unit for the checkers-tiling, blue lines indicate units for the blocks tiling.
 
 Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy.    
 For the scheme's we chose to connect the spiders with a diagonal. Of course, connecting with a horizontal line will also work. For the spiders in a square, the connection between spider and square has to be horizontal.
@@ -47,10 +46,6 @@ Larger spiders are possible, but it will take Groundforge some time to generate 
       
 ## Spiders with an eye in a square 
 > [4x3 legs][shq3], [4x4 legs][shq4]
-
-***
-
-On this page, all pictures are made with Knipling.
 
 
 [st2]: https://d-bl.github.io/GroundForge/index.html?m=-5--%0AB-C-%0A-5-5%0A5-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttctc%20A4%3Dctcll%20D1%3Dctctt%20%20C4%3Dctcrr
