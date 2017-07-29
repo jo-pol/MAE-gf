@@ -16,7 +16,7 @@ For the scheme's we chose to connect the spiders with a diagonal. Of course, con
    
 ## Traditional spiders
 Nrs. F2 and E4 in mrs. Whiting's index are connected spiders, with 4x2 and 4x3 legs.   
-![Traditional spider](https://github.com/MAETempels/MAE-gf/blob/images/gf%20spin%204t.bmp)
+![Traditional spider](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204t.png)
 > [4x2 legs][st2], [4x3 legs][st3], [4x4 legs][st4], [4x5 legs][st5]  
 
 Please note: for a traditional spider, a stitch like ctctctc has to be chosen in the heart of the spider.
@@ -24,7 +24,7 @@ Please note: for a traditional spider, a stitch like ctctctc has to be chosen in
 [Another][sa1] ground can be obtained using the corresponding checkers-matrix, but set the tiling parameter to "brick".
     
 ## Spiders with an eye
-![Spider with eye](https://github.com/MAETempels/MAE-gf/blob/images/gf%20spin%204g.bmp)
+![Spider with eye](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204g.png)
 > [4x2 legs][sh2], [4x3 legs][sh3], [4x4 legs][sh4]
 
 Please note: to get a clear eye in te middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider.
@@ -34,8 +34,8 @@ Mrs. Whiting's index nrs G2 and H2.
 
 Ground G2 has the following working scheme:      
 It consists of a 3 legged spider with a ring in whole stitch and twist, making it a four legged spider. This spider is embedded in a square. Several of these squares are connected.   
-![working scheme](https://github.com/MAETempels/mae-gf/blob/images/gf%20spin%204s%20wt.bmp) 
-![Spider in square](https://github.com/MAETempels/MAE-gf/blob/images/gf%20spin%204s.bmp)
+![working scheme](https://github.com/MAETempels/mae-gf/blob/master/images/gf%20spin%204s%20wt.png) 
+![Spider in square](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204s.png)
 > [4x2 legs][sq2], [4x3 legs][sq3], [4x4 legs][sq4], [4x5 legs][sq5]   
    
 Larger spiders are possible, but it will take Groundforge some time to generate te pictures.   
