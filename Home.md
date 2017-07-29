@@ -14,6 +14,6 @@ Most pair-diagrams are the styled versions that Groundforge understands. Red lin
 [Whiting Index](http://gwydir.demon.co.uk/jo/lace/whiting/index.htm#picindex): Jo Edkins created an annotated online index on the grounds in _A Lace Guide for Makers and Collectors_ by Gertrude Whiting which dates from 1920.
 
 ### Disclaimer
-All links worked when created. Due to work on the Groundforge coding, there may be hiccups.
+All links worked when created. Due to work on the Groundforge coding, there may be hiccups. There is a work-around, but I have to study this first. 
 
 English is not my native language.
