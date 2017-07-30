@@ -19,7 +19,7 @@ Nrs. F2 and E4 in mrs. Whiting's [index][WI] are connected spiders, with 4x2 and
 ![Traditional spider](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204t.png)
 > [4x2 legs][st2], [4x3 legs][st3], [4x4 legs][st4], [4x5 legs][st5]  
 
-Please note: for a traditional spider, a stitch like ctctctc has to be chosen in the heart of the spider.
+Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has to be chosen in the heart of the spider.
 
 [Another][sa1] ground can be obtained using the corresponding checkers-matrix, but set the tiling parameter to "brick".
     
