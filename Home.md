@@ -7,14 +7,15 @@ In this wiki you find pages with additional patterns for use in [Groundforge](ht
 All patterns are links to the Groundforge main page. Follow the link and click `SHOW` in the `DIAGRAM` section.
 
 ### Stitches
-See the following example.
+Suppose, you wish to work with the following example. 
+![pic-tct]
 
-mijn:
 [ex-tctct](ex-tctct)
 [ex-ctct](ex-ctct)
 
-[tctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct
-[ctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct&s2=cross%3Dctc%20twist%3Dctc&s3=
+[pic-tct]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf-tctct.png
+[ex-tctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct
+[ex-ctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct&s2=cross%3Dctc%20twist%3Dctc&s3=
 
 ### Pictures
 The pictures in this wiki are mostly made in Knipling (TM).   
