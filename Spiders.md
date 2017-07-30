@@ -15,7 +15,7 @@ Adding legs to a spider is the equivalent of adding a ring to it. So, after disc
 For the scheme's we chose to connect the spiders with a diagonal. Of course, connecting with a horizontal line will also work. For the spiders in a square, the connection between spider and square has to be horizontal.
    
 ## Traditional spiders
-Nrs. F2 and E4 in mrs. [Whiting's][WI] index are connected spiders, with 4x2 and 4x3 legs.   
+Nrs. F2 and E4 in mrs. Whiting's [index][WI] are connected spiders, with 4x2 and 4x3 legs.   
 ![Traditional spider](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204t.png)
 > [4x2 legs][st2], [4x3 legs][st3], [4x4 legs][st4], [4x5 legs][st5]  
 
@@ -30,7 +30,7 @@ Please note: for a traditional spider, a stitch like ctctctc has to be chosen in
 Please note: to get a clear eye in te middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider.
    
 ## Spiders in a square
-Mrs. [Whiting's][WI] index nrs G2 and H2.
+Mrs. Whiting's [index][WI] nrs G2 and H2.
 
 Ground G2 has the following working scheme:      
 It consists of a 3 legged spider with a ring in whole stitch and twist, making it a four legged spider. This spider is embedded in a square. Several of these squares are connected.   
@@ -41,7 +41,7 @@ It consists of a 3 legged spider with a ring in whole stitch and twist, making i
 Larger spiders are possible, but it will take Groundforge some time to generate te pictures.   
        
 ## Binche spiders 
-"Bolletje". [Mrs. Whiting's][WI] ground no G4.
+"Bolletje". Mrs. Whiting's [index][WI] no G4.
 > [binche spider][bb]
       
 ## Spiders with an eye in a square 
