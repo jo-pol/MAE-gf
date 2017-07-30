@@ -6,6 +6,16 @@ In this wiki you find pages with additional patterns for use in [Groundforge](ht
 ### Usage
 All patterns are links to the Groundforge main page. Follow the link and click `SHOW` in the `DIAGRAM` section.
 
+### Stitches
+See the following example.
+
+mijn:
+[ex-tctct](ex-tctct)
+[ex-ctct](ex-ctct)
+
+[tctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct
+[ctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct&s2=cross%3Dctc%20twist%3Dctc&s3=
+
 ### Pictures
 The pictures in this wiki are mostly made in Knipling (TM).   
 Most pair-diagrams are the styled versions that Groundforge understands. Red lines indicate the unit for the checkers-tiling, blue lines indicate the unit for the blocks tiling.
