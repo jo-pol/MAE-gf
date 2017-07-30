@@ -27,7 +27,7 @@ Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has t
 ![Spider with eye](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204g.png)
 > [4x2 legs][sh2], [4x3 legs][sh3], [4x4 legs][sh4]
 
-Please note: to get a clear eye in te middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider.
+Please note: to get a clear eye in te middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: `A5=ctclctc E5=ctcrctc`.
    
 ## Spiders in a square
 Mrs. Whiting's [index][WI] nrs G2 and H2.
