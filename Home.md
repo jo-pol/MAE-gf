@@ -13,7 +13,7 @@ Suppose, you wish to work on the example above. The whole stitch & twist in the 
 
 ### Pictures
 The pictures in this wiki are mostly made in Knipling (TM).   
-Most pair-diagrams are the styled versions that Groundforge understands. Red lines indicate the unit for the checkers-tiling, blue lines indicate the unit for the blocks tiling.
+Most pair-diagrams are the styled versions that Groundforge understands. Red lines indicate the unit for the checkers-tiling, blue lines indicate the unit for the blocks-tiling.
 
 ### Other links
 [Groundforge user guide](https://github.com/d-bl/GroundForge/wiki)   
