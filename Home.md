@@ -21,9 +21,3 @@ Some of these links you'll also find in the footer.
 All links worked when created. Due to work on the Groundforge coding, there may be hiccups. There is a work-around, but I have to study this first. 
 
 English is not my native language, so please forgive me any mistakes.
-
-
-
-
-[ex-tctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct
-[ex-ctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr
