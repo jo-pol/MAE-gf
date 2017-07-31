@@ -3,6 +3,7 @@
 * [Tiling](#Tiling)
 
 ### Stitches
+Names used in this wiki:
 * Cross only
 * Half stitch = (twist if not already done), cross, twist    
 * Cloth stitch = cross, twist, cross     
