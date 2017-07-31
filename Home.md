@@ -23,6 +23,6 @@ English is not my native language, so please forgive me any mistakes.
 
 
 
-[pic-tct]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf-tctct.png
+
 [ex-tctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct
 [ex-ctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr
