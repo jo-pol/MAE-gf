@@ -1,0 +1,1 @@
+[Whiting Index](http://gwydir.demon.co.uk/jo/lace/whiting/index.htm#picindex)
