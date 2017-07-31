@@ -7,10 +7,6 @@ In this wiki you find pages with additional patterns for use in [Groundforge](ht
 All patterns are links to the Groundforge main page. Follow the link and click `SHOW` in the `DIAGRAM` section.  
 Most of the patterns also have a scheme in the Groundforge gallery. Some, as the spiders and the larger fishes, don't. In the future there may be links to the gallery.
 
-### Stitches
-![pic-tct]Groundforge has rules as wich stitch-codes get what colour, according to the Belgian colour code. In this wiki, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example. 
-Suppose, you wish to work on the example above. The whole stitch & twist in the middle can be notated several way's. I prefer to code `ctc B1=tctct`, see [here][ex-tctct]. However, doing so, Groundforge colours this stitch in black in the pair-diagram (the left one). If you wish to see a red stitch, you have to code `ctc A1=ctcr A2=ctcr B2=ctct`, see [here][ex-ctct].
-
 ### Pictures
 The pictures in this wiki are mostly made in Knipling (TM).   
 Most pair-diagrams are the styled versions that Groundforge understands. Red lines indicate the unit for the checkers-tiling, blue lines indicate the unit for the blocks-tiling.
