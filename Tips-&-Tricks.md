@@ -1,5 +1,5 @@
 ### Contents
-* [Stitches](Stitches)
+* [Stitches](#Stitches)
 
 ### Stitches
 ![pic-tct]Groundforge has rules as wich stitch-codes get what colour, according to the Belgian colour code. In this wiki, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example. 
