@@ -7,15 +7,18 @@
 - [Spiders in a square](#spiders-in-a-square)
 - [Binche spiders](#binche-spiders)
 - [Spiders with an eye, in a square](#spiders-with-an-eye-in-a-square)
-
+     
 ## Introduction
 On this page we show (via links) examples of matrices for grounds with spiders.     
 
-Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy.    
+Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy. (picture follows)
+
 For the scheme's we chose to connect the spiders with a diagonal. Of course, connecting with a horizontal line will also work. For the spiders in a square, the connection between spider and square has to be horizontal.
-   
+
+Some of the spiders in these examples only have one twist in their legs. This will be corrected somewhere in the future.
+
 ## Traditional spiders
-Nrs. F2 and E4 in mrs. Whiting's [index][WI] are connected spiders, with 4x2 and 4x3 legs.   
+Nrs. F2 and E4 in mrs. Whiting's index are connected spiders, with 4x2 and 4x3 legs.   
 ![Traditional spider](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204t.png)
 > [4x2 legs][st2], [4x3 legs][st3], [4x4 legs][st4], [4x5 legs][st5]  
 
@@ -30,7 +33,7 @@ Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has t
 Please note: to get a clear eye in te middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: `A5=ctclctc E5=ctcrctc`.
    
 ## Spiders in a square
-Mrs. Whiting's [index][WI] nrs G2 and H2.
+Mrs. Whiting's index nrs G2 and H2.
 
 Ground G2 has the following working scheme:      
 It consists of a 3 legged spider with a ring in whole stitch and twist, making it a four legged spider. This spider is embedded in a square. Several of these squares are connected.   
@@ -41,14 +44,14 @@ It consists of a 3 legged spider with a ring in whole stitch and twist, making i
 Larger spiders are possible, but it will take Groundforge some time to generate te pictures.   
        
 ## Binche spiders 
-"Bolletje". Mrs. Whiting's [index][WI] no G4.
+"Bolletje". Mrs. Whiting's index no G4.
 > [binche spider][bb]
       
 ## Spiders with an eye in a square 
 > [4x3 legs][shq3], [4x4 legs][shq4]
 
 
-[WI]: http://gwydir.demon.co.uk/jo/lace/whiting/index.htm#picindex 
+
 
 [st2]: https://d-bl.github.io/GroundForge/index.html?m=-5--%0AB-C-%0A-5-5%0A5-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttctc%20A4%3Dctcll%20D1%3Dctctt%20%20C4%3Dctcrr
 [st3]: https://d-bl.github.io/GroundForge/index.html?m=-5----%0AB-CD-A%0A256-5-%0A-5-535%0A5-56-2%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A4%3Dctctctc%20C5%3Dctcr%20B1%3Dctcr%20E5%3Dctcl%20F1%3Dctcl%20D2%3Dctct
