@@ -1,6 +1,7 @@
 ### Contents
 * [Stitches](#Stitches)
 * [Tiling](#Tiling)
+* [Braids](#Braids)
 
 ### Stitches
 Names used in this wiki:
@@ -12,12 +13,15 @@ Names used in this wiki:
 Sometimes, onorthodox stitches are used, like `Cross only`. (Examples will be in this wiki.)
 
 ![pic-tct]Groundforge has rules as wich stitch-codes get what colour, according to the Belgian colour code. In this wiki, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example. 
-Suppose, you wish to work on the example above. The whole stitch & twist in the middle can be notated several way's. I prefer to code `ctc B1=tctct`, see [here][ex-tctct]. However, doing so, Groundforge colours this stitch in black in the pair-diagram (the left one). If you wish to see a red stitch, you have to code `ctc A1=ctcr A2=ctcr B2=ctct`, see [here][ex-ctct].
+Suppose, we wish to work on the example above. The whole stitch & twist in the middle can be specified several ways. We prefer to use `ctc B1=tctct`, see [here][ex-tctct]. However, doing so, Groundforge colours this stitch in black in the pair-diagram (the left one). If we wish to see a red stitch, we have to use `ctc A1=ctcr A2=ctcr B2=ctct`, see [here][ex-ctct].
 
 ### Tiling
 Most examples use the `brick` parameter setting, since it's less ID's to specify. Some scheme's do not have a working brick diagram, so, of course, a `checkers` parameter is used.
 
-Please note, that the ID's needed for the stitches shift somehow. A1 is not in the upperleft corner of the shown units in the examples.
+Please note, that the ID's needed for the stitches shift somehow. `A1` is not in the upperleft corner of the shown units in the examples.
+
+### Braids
+Groundforge can do braids, however, we have to feed it with a matrix covering the complete width of the braid, including footsides. This will lead to a considerable amount of ID's to specify in the stitches section. Therefor, the examples provided focus on just elements of the grounds. No attention is paid to footsides.
 
 
 
