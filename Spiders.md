@@ -11,7 +11,9 @@
 ## Introduction
 On this page we show (via links) examples of matrices for grounds with spiders.     
 
-Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy. (picture follows)
+Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy.      
+![spider generator](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%20gen.png)
+
 
 For the scheme's we chose to connect the spiders with a diagonal. Of course, connecting with a horizontal line will also work. For the spiders in a square, the connection between spider and square has to be horizontal.
 
