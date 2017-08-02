@@ -1,6 +1,6 @@
 # Spiders   
 
-## Contents
+### Contents
 - [Introduction](#introduction)
 - [Traditional spiders](#traditional-spiders)
 - [Spiders with an eye](#spiders-with-an-eye)
@@ -8,7 +8,7 @@
 - [Binche spiders](#binche-spiders)
 - [Spiders with an eye, in a square](#spiders-with-an-eye-in-a-square)
      
-## Introduction
+### Introduction
 On this page we show (via links) examples of matrices for grounds with spiders.     
 
 Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy.      
@@ -19,7 +19,7 @@ For the scheme's we chose to connect the spiders with a diagonal. Of course, con
 
 Some of the spiders in these examples only have one twist in their legs. This will be corrected somewhere in the future.
 
-## Traditional spiders
+### Traditional spiders
 Nrs. F2 and E4 in mrs. Whiting's index are connected spiders, with 4x2 and 4x3 legs.   
 ![Traditional spider](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204t.png)
 > [4x2 legs][st2], [4x3 legs][st3], [4x4 legs][st4], [4x5 legs][st5]  
@@ -28,13 +28,13 @@ Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has t
 
 [Another][sa1] ground can be obtained using the corresponding checkers-matrix, but set the tiling parameter to "brick".
     
-## Spiders with an eye
+### Spiders with an eye
 ![Spider with eye](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204g.png)
 > [4x2 legs][sh2], [4x3 legs][sh3], [4x4 legs][sh4]
 
 Please note: to get a clear eye in te middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: `A5=ctclctc E5=ctcrctc`.
    
-## Spiders in a square
+### Spiders in a square
 Mrs. Whiting's index nrs G2 and H2.
 
 Ground G2 has the following working scheme:      
@@ -45,14 +45,14 @@ It consists of a 3 legged spider with a ring in whole stitch and twist, making i
    
 Larger spiders are possible, but it will take Groundforge some time to generate te pictures.   
        
-## Binche spiders 
+### Binche spiders 
 "Bolletje". Mrs. Whiting's index no G4.
 > [binche spider][wi-g04]
 
 Traditional spider, on a binche pricking. Mrs. Whiting's index no E2.
 > [traditional spider, binche style][wi-e02]
       
-## Spiders with an eye in a square 
+### Spiders with an eye in a square 
 > [4x3 legs][shq3], [4x4 legs][shq4]
 
 
