@@ -75,7 +75,7 @@ Traditional spider, on a binche pricking. Mrs. Whiting's index no E2.
 [sq5]: https://d-bl.github.io/GroundForge/index.html?m=5-----5-----%0A-CDDD632AAAB%0A566666322222%0A566666322222%0A566666322222%0A566666-22222%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20I5%3Dctctctc%20C5%3Dtctct%20B6%3Dtctct%20A1%3Dtctct%20L2%3Dtctct%20E3%3Dtctct%20D4%3Dtctct%20D6%3Dtctct%20E1%3Dtctct%20A3%3Dtctct%20B4%3Dtctct%20F2%3Dtctct
 
 [wi-g04]: https://d-bl.github.io/GroundForge/index.html?m=5-27-256-46-%0A-5----5----5%0A5-CD-B3C-AB-%0A-56866-22125%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20I1%3Dctc%20H2%3Dctc%20J2%3Dctc%20I3%3Dctc%20G3%3Dctc%20K3%3Dctc%20H4%3Dctc%20J4%3Dctc%20C1%3Dctc%20A1%3Dctcl%20E1%3Dctcr%20B2%3Dctcl%20D2%3Dctcr
-[wi-e02]: https://d-bl.github.io/GroundForge/index.html?m=5---5---%0A-CD632AB%0A5666-222%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20C2%3Dctctttctc%20A3%3Dctcll%20B1%3Dctcll%20E3%3Dctcrr%20D1%3Dctcrr%20G2%3Dctctctc
+[wi-e02]: https://d-bl.github.io/GroundForge/index.html?m=5---5---%0A-CD632AB%0A5666-222%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20C2%3Dctctttctc%20A3%3Dctclll%20B1%3Dctclll%20E3%3Dctcrrr%20D1%3Dctcrrr%20G2%3Dctctctc&s2=cross%3Dctc%20twist%3Dctc&s3=
 
 [shq3]: https://d-bl.github.io/GroundForge/index.html?m=-5--5--5%0A5-C632B-%0A-566-225%0A566-5-22%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20C3%3Dtctct%20B4%3Dlctct%20E1%3Dlctct%20D2%3Dlctct%20D4%3Drctct%20A1%3Drctct%20B2%3Drctct%20F3%3Dctcrctc%20H3%3Dctclctc
 [shq4]: https://d-bl.github.io/GroundForge/index.html?m=-5---5---5%0A5-CD632AB-%0A-566632225%0A56666-2222%0A5666-5-222%3Bbricks%3B24%3B24%3B0%3B0&s1=G4%3Dtctct%20I4%3Dtctct%20C4%3Dctct%20B5%3Dlctct%20A1%3Dlctct%20E2%3Dlctct%20D3%3Dlctct%20D5%3Drctct%20E1%3Drctct%20A2%3Drctct%20B3%3Drctct%20C4%3Dctct
