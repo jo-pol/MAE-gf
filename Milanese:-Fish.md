@@ -31,14 +31,14 @@ In mrs Whiting index the following fishes are found:
 
 ### Fish examples
 More will follow
-> [Fish 1,2-][F11-]   
+> [Fish 1,1,-][F11-]   
 > [Fish 2,2,-][F22-] (H14), [Fish 2,2,0][F220] (G14), [Fish 2,2,2][F222] (G16)             
 > [Fish 4,2,-][F42-] (D16), [Fish 4,2,1][F421] (E16), [Fish 4,2,2][F422] (F16)      
 > [Fish 5,2,-][F52-]    
 > [Lotus 2,2,0][L220]
 
 
-[F11-]: https://d-bl.github.io/GroundForge/index.html?m=8%0A1%3Bchecker%3B8%3B6%3B0%3B0&s1=A1%3Dctc%20A2%3Dctcr
+[F11-]: https://d-bl.github.io/GroundForge/index.html?m=8%0A1%3Bchecker%3B16%3B16%3B0%3B0&s1=A1%3Dctc%20A2%3Dctcr
 
 [F220]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A88%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctctt%20B4%3Dctcll%20B1%3Dctcrr
 [F22-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A88%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctcrr%20A3%3Dctcl
@@ -48,9 +48,9 @@ More will follow
 [F421]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A21%0A99%0A11%0A66%0A-4%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctcll%20B2%3Dctcrr%20A3%3Dctcll%20A4%3Dctcrr%20A6%3Dtctct
 [F422]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A99%0A11%0A66%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B7%3Dtctct%20A8%3Dctct%20B2%3Dctcll%20B3%3Dctcrr%20A4%3Dctcll%20B5%3Dctcrr
 
-[F52-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A99%0A11%0A88%0A22%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A6%3Dctclll%20A1%3Dctcrrr%20B2%3Dctclll%20A3%3Dctcrrr%20A4%3Dctclll&s2=cross%3Dctc%20twist%3Dctc&s3=
+[F52-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A99%0A11%0A88%0A22%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A6%3Dctclll%20A1%3Dctcrrr%20B2%3Dctclll%20A3%3Dctcrrr%20A4%3Dctclll
 
-[L220]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A66%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B4%3Dctcll%20B1%3Dctcrr%20A2%3Dctctt&s2=cross%3Dctc%20twist%3Dctc&s3=
+[L220]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A66%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B4%3Dctcll%20B1%3Dctcrr%20A2%3Dctctt
 
 [vis_wt]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20vis%20wt.png
 [vis_gen]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20vis%20gen.png
