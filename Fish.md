@@ -9,7 +9,7 @@
 
 ### Introduction
 Fish grounds are usualy used in small braids. Milanese braids typically need 14-18 pairs of bobbins.     
-The grounds consists of a number of rows with two cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows defines whether the fish will be in straight vertical lines, or in alternating positions.
+The grounds consists of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows defines whether the fish will be in straight vertical lines, or in alternating positions. If the tail is made with pairs not from the same fish, the ground is called _lotus_.
     
 ![fish pair dia][vis_wt]
 
@@ -26,19 +26,28 @@ The general fish scheme looks like the schemes in the picture. Of course, other 
 
 ### Whiting index
 In mrs Whiting index the following fishes are found: 
-> [G14][F220], [H14][F22-]      
+> [G14][F220], [H14][F22-]             
 > [D16][F42-], [E16][F421], [F16][F422], [G16][F222]
 
 ### Fish examples
+More will follow
+> [Fish 1,2-][F11-]   
+> [Fish 2,2,-][F22-] (H14), [Fish 2,2,0][F220] (G14), [Fish 2,2,2][F222] (G16)             
+> [Fish 4,2,-][F42-] (D16), [Fish 4,2,1][F421] (E16), [Fish 4,2,2][F422] (F16)      
+> [Lotus 2,2,0][L220]
 
 
+[F11-]: https://d-bl.github.io/GroundForge/index.html?m=8%0A1%3Bchecker%3B8%3B6%3B0%3B0&s1=A1%3Dctc%20A2%3Dctcr
 
 [F220]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A88%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctctt%20B4%3Dctcll%20B1%3Dctcrr
 [F22-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A88%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctcrr%20A3%3Dctcl
+[F222]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A88%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A6%3Dctctt%20B5%3Dctctt%20B2%3Dctcll%20B3%3Dctcrr%20A4%3Dctctt
+
 [F42-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A99%0A11%0A66%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A5%3Dctcll%20A1%3Dctcrr%20B2%3Dctcll%20B3%3Dctcrr
 [F421]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A21%0A99%0A11%0A66%0A-4%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctcll%20B2%3Dctcrr%20A3%3Dctcll%20A4%3Dctcrr%20A6%3Dtctct
 [F422]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A99%0A11%0A66%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B7%3Dtctct%20A8%3Dctct%20B2%3Dctcll%20B3%3Dctcrr%20A4%3Dctcll%20B5%3Dctcrr
-[F222]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A88%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A6%3Dctctt%20B5%3Dctctt%20B2%3Dctcll%20B3%3Dctcrr%20A4%3Dctctt
+
+[L220]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A66%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B4%3Dctcll%20B1%3Dctcrr%20A2%3Dctctt&s2=cross%3Dctc%20twist%3Dctc&s3=
 
 [vis_wt]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20vis%20wt.png
 [vis_gen]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20vis%20gen.png
