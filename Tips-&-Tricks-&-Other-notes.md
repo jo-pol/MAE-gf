@@ -25,7 +25,7 @@ Most examples use the `brick` parameter setting, since it's less ID's to specify
 Please note, that the ID's needed for the stitches shift somehow. `A1` is not in the upperleft corner of the shown units in the examples.
 
 ### Braids
-Groundforge can do braids, however, we have to feed it with a matrix covering the complete width of the braid, including footsides. This will lead to a considerable amount of ID's to specify in the stitches section. Therefor, the examples provided focus on just elements of the grounds. No attention is paid to footsides.
+Groundforge can do braids, however, we have to feed it with a matrix covering the complete width of the braid, including footsides. This will lead to a considerable amount of ID's to specify in the stitches section. Therefor, the examples provided focus on just elements of the grounds. No attention is paid to footsides. This may sometimes lead to tilted figures.
 
 
 
