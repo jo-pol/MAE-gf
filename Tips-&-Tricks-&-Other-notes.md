@@ -1,5 +1,5 @@
 ### Contents
-* [Ground names](#ground_names)
+* [Ground names](#ground-names)
 * [Stitches](#stitches)
 * [Tiling](#tiling)
 * [Braids](#braids)
