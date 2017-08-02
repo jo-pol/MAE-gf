@@ -1,7 +1,11 @@
 ### Contents
+* [Ground names](#Ground_names)
 * [Stitches](#Stitches)
 * [Tiling](#Tiling)
 * [Braids](#Braids)
+
+### Ground names
+Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. 
 
 ### Stitches
 Names used in this wiki:
