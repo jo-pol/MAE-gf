@@ -8,7 +8,7 @@
 * [Lotus examples](#lotus-examples)
 
 ### Introduction
-Lotus grounds are usualy used in small braids.        
+Lotus grounds are usualy used in small braids, 14-18 pairs.        
 ![lotus pair dia][lotus_wt]
 
 ### Lotus notation
@@ -23,9 +23,9 @@ The general Lotus scheme looks like the schemes in the picture. Of course, other
 In Mrs Whiting's index we have not found lotus-grounds. (not yet)
 
 ### Lotus examples
-More will follow.
-[Lotus 2,2,0][L220]   
-[Lotus 5,2,0][L520]   
+More will follow.       
+[Lotus H2,V2,X0][L220]   
+[Lotus H5,V2,X0][L520]   
 
 [lotus_wt]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20lotus%20wt.png
 [lotus_gen]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20lotus%20gen.png
