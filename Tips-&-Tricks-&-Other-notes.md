@@ -5,7 +5,9 @@
 * [Braids](#braids)
 
 ### Ground names
-Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. 
+Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flamish grounds.    
+Example: The picture shows the working-scheme's of one unit of _Slavian rose ground_ and _Fond au cinq trout_. Groundforge gives the same [result][ex-5G].       
+![rose-cinq][pic-r5g]
 
 ### Stitches
 Names used in this wiki:
@@ -31,6 +33,9 @@ Groundforge can do braids, however, we have to feed it with a matrix covering th
 
 
 [pic-tct]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf-tctct.png
+[pic-r5g]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf-slaaf-vierge.png
 
 [ex-tctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct
 [ex-ctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr
+[ex-5G]: https://d-bl.github.io/GroundForge/index.html?m=5831%20-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20A1%3Dctct%20C1%3Dctct
+
