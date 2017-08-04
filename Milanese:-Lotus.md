@@ -3,7 +3,7 @@
 ### Contents
 * [Introduction](#introduction)
 * [Lotus notation](#lotus-notation)
-* [Lotus scheme](#lotus-scheme)
+* [Lotus building](#lotus-building)
 * [Whithing index](#whiting-index)
 * [Lotus examples](#lotus-examples)
 
@@ -14,8 +14,9 @@ Lotus grounds are usualy used in small braids, 14-18 pairs.
 ### Lotus notation
 Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and the number of rows in between. See the picture at the top of this article. 
 
-### Lotus scheme
-The general Lotus scheme looks like the scheme in the picture. Of course, other scheme's are possible. There are lots of them in the gallery.
+### Lotus building
+The general Lotus scheme looks like the scheme in the picture. Of course, other scheme's are possible. There are lots of them in the gallery.   
+Building bigger lotus is similair to the building of bigger fish, as illustrated on the _Fish_ page.
 
 ![lotus generator][lotus_gen]
 
