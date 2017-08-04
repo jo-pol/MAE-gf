@@ -34,7 +34,7 @@ Groundforge can do braids, however, we have to feed it with a matrix covering th
 
 
 
-[pic-tct]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf-tctct.png
+[pic-tct]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-tctct.png
 [pic-r5g]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-slaaf-vierge.png
 
 [ex-tctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct
