@@ -15,14 +15,14 @@ Some of the spiders in these examples only have one twist in their legs. This wi
 
 ### Building Spiders
 Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy.      
-![spider generator](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%20gen.png)
+![spider generator][pic-gen]
 
 
 For the scheme's we chose to connect the spiders with a diagonal. Of course, connecting with a horizontal line will also work. For the spiders in a square, the connection between spider and square has to be horizontal.
 
 ### Traditional spiders
 Nrs. F2 and E4 in mrs. Whiting's index are connected spiders, with 4x2 and 4x3 legs.   
-![Traditional spider](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204t.png)
+![Traditional spider][pic-ts]
 > [4x2 legs][st2], [4x3 legs][st3], [4x4 legs][st4], [4x5 legs][st5]  
 
 Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has to be chosen in the heart of the spider.
@@ -40,8 +40,8 @@ Mrs. Whiting's index nrs G2 and H2.
 
 Ground G2 has the following working scheme:      
 It consists of a 3 legged spider with a ring in whole stitch and twist, making it a four legged spider. This spider is embedded in a square. Several of these squares are connected.   
-![working scheme](https://github.com/MAETempels/mae-gf/blob/master/images/gf%20spin%204s%20wt.png) 
-![Spider in square](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204s.png)
+![working scheme][pic-sq-wt] 
+![Spider in square][pic-sq]
 > [4x2 legs][sq2], [4x3 legs][sq3], [4x4 legs][sq4], [4x5 legs][sq5]   
    
 Larger spiders are possible, but it will take Groundforge some time to generate te pictures.   
@@ -56,7 +56,10 @@ Traditional spider, on a binche pricking. Mrs. Whiting's index no E2.
 ### Spiders with an eye in a square 
 > [4x3 legs][shq3], [4x4 legs][shq4]
 
-
+[pic-ts]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204t.png
+[pic-gen]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%20gen.png
+[pic-sq-wt]: https://github.com/MAETempels/mae-gf/blob/master/images_wt/gf%20spin%204s%20wt.png
+[pic-sq]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204s.png
 
 
 [st2]: https://d-bl.github.io/GroundForge/index.html?m=-5--%0AB-C-%0A-5-5%0A5-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttctc%20A4%3Dctcll%20D1%3Dctctt%20%20C4%3Dctcrr
