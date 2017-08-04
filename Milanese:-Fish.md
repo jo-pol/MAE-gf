@@ -46,7 +46,7 @@ More will follow
 [F120]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dctclll%20A1%3Dctct
 
 [F220]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A88%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctctt%20B4%3Dctcll%20B1%3Dctcrr
-[F22-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A88%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctcrr%20A3%3Dctcl
+[F22-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A88%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dctclll%20B1%3Dctcrrr
 [F222]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A88%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A6%3Dctctt%20B5%3Dctctt%20B2%3Dctcll%20B3%3Dctcrr%20A4%3Dctctt
 
 [F322]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A99%0A22%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B2%3Dctclll%20B3%3Dctcrrr%20A4%3Dctclll%20A5%3Dctct%20B6%3Dctct%20A7%3Dctct
