@@ -3,13 +3,14 @@
 ### Contents
 * [Introduction](#introduction)
 * [Fish notation](#fish-notation)
-* [Fish scheme](#fish-scheme)
+* [Fish building](#fish-building)
 * [Whithing index](#whiting-index)
 * [Fish examples](#fish-examples)
 
 ### Introduction
 Fish grounds are usualy used in small braids. Milanese braids typically need 14-18 pairs of bobbins.     
-The grounds consists of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows defines whether the fish will be in straight vertical lines, or in alternating positions. If the tail is made with pairs not from the same fish, the ground is called _Lotus_.
+The grounds consists of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows defines whether the fish will be in straight vertical lines, or in alternating positions.        
+If the tail is made with pairs not from the same fish, the ground is called _Lotus_. Try changing the tiling from `bricks` to `checkers` or vise versa.
     
 ![fish pair dia][vis_wt]
 
@@ -19,10 +20,13 @@ Broader fish can be made, e.g. with four cloth stitches. In some Milanese ground
 Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and the in between rows the _waves_.
 Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture at the top of this article. 
 
-### Fish scheme
+### Fish building.
 The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. There are lots of them in the gallery.
 
 ![fish generator][vis_gen]
+     
+Building bigger fish is illustrated in the following picture. Please note the change of direction of the weavers.      
+![fish builder][vis_bouw]
 
 ### Whiting index
 In mrs Whiting index the following fishes are found: 
@@ -51,4 +55,5 @@ More will follow
 
 [vis_wt]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20vis%20wt.png
 [vis_gen]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20vis%20gen.png
+[vis_bouw]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20vis%20bouw.png
 
