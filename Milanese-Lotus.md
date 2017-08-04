@@ -26,7 +26,7 @@ More will follow.
 [Lotus H2,V2,X-][L22-], [Lotus H2,V2,X0][L220]   
 [Lotus H5,V2,X0][L520]   
 
-[lotus_wt]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20lotus%20wt.png
+[lotus_wt]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%20lotus%20wt.png
 [lotus_gen]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20lotus%20gen.png
 
 [L220]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A66%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B4%3Dctcll%20B1%3Dctcrr%20A2%3Dctctt
