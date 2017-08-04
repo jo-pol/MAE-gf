@@ -10,7 +10,7 @@
 ### Introduction
 Fish grounds are usualy used in small braids. Milanese braids typically need 14-18 pairs of bobbins.     
 The grounds consists of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows defines whether the fish will be in straight vertical lines, or in alternating positions.        
-If the tail is made with pairs not from the same fish, the ground is called _Lotus_. Try changing the tiling from `bricks` to `checkers`.
+If the tail is made with pairs not from the same fish, the ground is called _Lotus_. 
     
 ![fish pair dia][vis_wt]
 
