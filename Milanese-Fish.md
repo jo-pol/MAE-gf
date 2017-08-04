@@ -55,7 +55,7 @@ More will follow
 
 [F52-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A99%0A11%0A88%0A22%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A6%3Dctclll%20A1%3Dctcrrr%20B2%3Dctclll%20A3%3Dctcrrr%20A4%3Dctclll
 
-[vis_wt]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20vis%20wt.png
+[vis_wt]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%20vis%20wt.png
 [vis_gen]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20vis%20gen.png
 [vis_bouw]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20vis%20bouw.png
 
