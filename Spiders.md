@@ -2,6 +2,7 @@
 
 ### Contents
 - [Introduction](#introduction)
+- [Building Spiders](#building-spiders) 
 - [Traditional spiders](#traditional-spiders)
 - [Spiders with an eye](#spiders-with-an-eye)
 - [Spiders in a square](#spiders-in-a-square)
@@ -10,14 +11,14 @@
      
 ### Introduction
 On this page we show (via links) examples of matrices for grounds with spiders.     
+Some of the spiders in these examples only have one twist in their legs. This will be corrected somewhere in the future.
 
+### Building Spiders
 Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy.      
 ![spider generator](https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%20gen.png)
 
 
 For the scheme's we chose to connect the spiders with a diagonal. Of course, connecting with a horizontal line will also work. For the spiders in a square, the connection between spider and square has to be horizontal.
-
-Some of the spiders in these examples only have one twist in their legs. This will be corrected somewhere in the future.
 
 ### Traditional spiders
 Nrs. F2 and E4 in mrs. Whiting's index are connected spiders, with 4x2 and 4x3 legs.   
