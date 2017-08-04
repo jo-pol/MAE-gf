@@ -1,5 +1,3 @@
-# under construction
-
 ### Contents
 * [Introduction](#introduction)
 * [Fish notation](#fish-notation)
