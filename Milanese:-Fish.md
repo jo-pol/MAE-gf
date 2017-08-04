@@ -36,7 +36,8 @@ In mrs Whiting index the following fishes are found:
 ### Fish examples
 More will follow
 > [Fish B1,S2,W-][F12-]   
-> [Fish B2,S2,W-][F22-] , [Fish B2,S2,W0][F220] (G14), [Fish B2,S2,W2][F222] (G16)             
+> [Fish B2,S2,W-][F22-] , [Fish B2,S2,W0][F220] (G14), [Fish B2,S2,W2][F222] (G16)     
+> [Fish B3,S2,W2][F322]               
 > [Fish B4,S2,W-][F42-] (D16), [Fish B4,S2,W1][F421] (E16), [Fish B4,S2,W2][F422] (F16)      
 > [Fish B5,S2,W-][F52-]    
 
@@ -46,6 +47,8 @@ More will follow
 [F220]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A88%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctctt%20B4%3Dctcll%20B1%3Dctcrr
 [F22-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A88%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctcrr%20A3%3Dctcl
 [F222]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A88%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A6%3Dctctt%20B5%3Dctctt%20B2%3Dctcll%20B3%3Dctcrr%20A4%3Dctctt
+
+[F322]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A99%0A22%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B2%3Dctclll%20B3%3Dctcrrr%20A4%3Dctclll%20A5%3Dctct%20B6%3Dctct%20A7%3Dctct
 
 [F42-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A99%0A11%0A66%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A5%3Dctcll%20A1%3Dctcrr%20B2%3Dctcll%20B3%3Dctcrr
 [F421]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A21%0A99%0A11%0A66%0A-4%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctcll%20B2%3Dctcrr%20A3%3Dctcll%20A4%3Dctcrr%20A6%3Dtctct
