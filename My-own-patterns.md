@@ -19,5 +19,4 @@ Clearly, this pattern as such can not be made with Groundforge, however, there i
 
 [pic-ll]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/lacelintje.png
 
-
 [LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
