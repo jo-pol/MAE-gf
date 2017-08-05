@@ -2,12 +2,56 @@ under construction
 
 ### Contents
 * [Introduction](introduction)
-* two
+* [Traditional Bias Ground](traditional-bias-ground)
+* [Bias Ground, crossed rose style](bias-ground,-crossed-rose-style)
+* [Bias Ground, crossed differently](bias-ground,-crossed-differently)
+* [Bias Ground with a row  in between](bias-ground-with-a-row-in-between)
+* [Bias Ground, crossed and a row in between](bias-ground,-crossed-and-a-row-in-between)
 
 ### Introduction
-![pairdiagram](pic-0221-wt)
+![pairdiagram][pic-0221-wt]      
+The traditional Bias Ground, or Ornamental Ground, is made as in above pair-diagram. In this article we show different grounds based on this diagonal. 
+
+### Traditional Bias Ground
+![traditional][P-0221-tr]  
+examples
+
+###  Bias Ground, crossed rose style
+Whiting index: D6, F4    
+![crossed][P-0221-at]   
+> examples [D6][wi-D6], [F4][wi-F4]
+
+### Bias Ground, crossed differently
+Whiting index: E6    
+![alt crossed][P-0221-aa]    
+> examples [E6][wi-E6]
+
+### Bias Ground with a row in between
+![row between][P-0221-vg]  
+examples
+
+### Bias Ground, crossed and a row in between   
+![row & crossed][P-0221-av]    
+examples
 
 
 
+[pic-0221-wt]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200221%20wt.png
+[P-0221-tr]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20tr.png
+[P-0221-at]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20at.png
+[P-0221-aa]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20aa.png
+[P-0221-vg]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20vg.png
+[P-0221-av]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20av.png
 
-[pic-0211-wt]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200221%20wt.png
+[wi-D6]:
+[wi-F4]: https://d-bl.github.io/GroundForge/index.html?m=1483%208-48%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctcllctc%20C2%3Dctcrrctc
+[wi-E6]: https://d-bl.github.io/GroundForge/index.html?m=1488-483%208-483148%20831488-4%20488-4831%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20F3%3Dctct%20E4%3Dctct%20G4%3Dctct%20B1%3Dctct%20H1%3Dctct%20C4%3Dctct%20A2%3Dctct%20H3%3Dctct%20B3%3Dctct%20A4%3Dctct%20D1%3Dctct%20C2%3Dctct%20E2%3Dctct%20D3%3Dctct%20F1%3Dctct%20G4%3Dctct%20G2%3Dctct
+
+[G-0221-tr]:
+[G-0221-at]:
+[G-0221-aa]:
+[G-0221-vg]:
+[G-0221-av]:
+
+
+
