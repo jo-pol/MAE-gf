@@ -5,9 +5,9 @@ under construction
 * two
 
 ### Introduction
-![pairdiagram][pic-0221-wt]
+![pairdiagram](pic-0221-wt)
 
 
 
 
-[pic-0211-wt]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%20221%2wt.png
+[pic-0211-wt]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200221%20wt.png
