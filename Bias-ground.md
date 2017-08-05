@@ -1,12 +1,12 @@
 under construction
 
 ### Contents
-* [Introduction](introduction)
-* [Traditional Bias Ground](traditional-bias-ground)
-* [Bias Ground, crossed rose style](bias-ground,-crossed-rose-style)
-* [Bias Ground, crossed differently](bias-ground,-crossed-differently)
-* [Bias Ground with a row  in between](bias-ground-with-a-row-in-between)
-* [Bias Ground, crossed and a row in between](bias-ground,-crossed-and-a-row-in-between)
+* [Introduction](#introduction)
+* [Traditional Bias Ground](#traditional-bias-ground)
+* [Bias Ground, crossed rose style](#bias-ground,-crossed-rose-style)
+* [Bias Ground, crossed differently](#bias-ground,-crossed-differently)
+* [Bias Ground with a row  in between](#bias-ground-with-a-row-in-between)
+* [Bias Ground, crossed and a row in between](#bias-ground,-crossed-and-a-row-in-between)
 
 ### Introduction
 ![pairdiagram][pic-0221-wt]      
@@ -43,7 +43,7 @@ examples
 [P-0221-vg]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20vg.png
 [P-0221-av]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20av.png
 
-[wi-D6]:
+[wi-D6]: https://d-bl.github.io/GroundForge/index.html?m=8-48%0A8314%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20D2%3Dctct%20A1%3Dctct%20C1%3Dctct%20B2%3Dctct
 [wi-F4]: https://d-bl.github.io/GroundForge/index.html?m=1483%208-48%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctcllctc%20C2%3Dctcrrctc
 [wi-E6]: https://d-bl.github.io/GroundForge/index.html?m=1488-483%208-483148%20831488-4%20488-4831%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20F3%3Dctct%20E4%3Dctct%20G4%3Dctct%20B1%3Dctct%20H1%3Dctct%20C4%3Dctct%20A2%3Dctct%20H3%3Dctct%20B3%3Dctct%20A4%3Dctct%20D1%3Dctct%20C2%3Dctct%20E2%3Dctct%20D3%3Dctct%20F1%3Dctct%20G4%3Dctct%20G2%3Dctct
 
