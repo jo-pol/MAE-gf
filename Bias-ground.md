@@ -3,10 +3,10 @@ under construction
 ### Contents
 * [Introduction](#introduction)
 * [Traditional Bias Ground](#traditional-bias-ground)
-* [Bias Ground, crossed rose style](#bias-ground,-crossed-rose-style)
-* [Bias Ground, crossed differently](#bias-ground,-crossed-differently)
+* [Bias Ground crossed rose style](#bias-ground-crossed-rose-style)
+* [Bias Ground crossed differently](#bias-ground-crossed-differently)
 * [Bias Ground with a row  in between](#bias-ground-with-a-row-in-between)
-* [Bias Ground, crossed and a row in between](#bias-ground,-crossed-and-a-row-in-between)
+* [Bias Ground crossed and a row in between](#bias-ground-crossed-and-a-row-in-between)
 
 ### Introduction
 ![pairdiagram][pic-0221-wt]      
@@ -16,12 +16,12 @@ The traditional Bias Ground, or Ornamental Ground, is made as in above pair-diag
 ![traditional][P-0221-tr]  
 examples
 
-###  Bias Ground, crossed rose style
+###  Bias Ground crossed rose style
 Whiting index: D6, F4    
 ![crossed][P-0221-at]   
 > examples [D6][wi-D6], [F4][wi-F4]
 
-### Bias Ground, crossed differently
+### Bias Ground crossed differently
 Whiting index: E6    
 ![alt crossed][P-0221-aa]    
 > examples [E6][wi-E6]
@@ -30,7 +30,7 @@ Whiting index: E6
 ![row between][P-0221-vg]  
 examples
 
-### Bias Ground, crossed and a row in between   
+### Bias Ground crossed and a row in between   
 ![row & crossed][P-0221-av]    
 examples
 
