@@ -1,6 +1,7 @@
 Some fancy examples, collected on this page for now.
 ### Contents
 * [Squared rose ground](squared-rose-ground)
+* [Lace lintje](lace-lintje)
 
 ### Squared rose ground
 By putting the traditional rose ground unit in a square, little stars can be made.   
@@ -8,9 +9,16 @@ Please note: when making the actual lace, it will make a big difference if the u
 ![torchon-flemisch][pic-tor-flem]   
 > [Star][G-0112]
 
+### Lace lintje
+![lees lintje][pic-ll]     
+A few years ago I designed this small bookmark. The name is a pun upon the dutch word for "read" "lees", which is pronounced the same as "lace". "Lintje" means "ribbon".    
+Clearly, this pattern can not be made with Groundforge, however, [here][LLLL] is a close by. Please note: play only with the stitches of the rose-unit. The plaits, specified with `ctctctct` should stay plaits.
+
 
 
 
 [pic-tor-flem]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-tor-vl.png
+[pic-ll]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/lacelintje.png
 
 [G-0112]: https://d-bl.github.io/GroundForge/index.html?m=586-21%0A-48317%0A5-4-7-%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctt%20E3%3Dc%20A3%3Dc%20E2%3Dctt%20A2%3Dctt%20A1%3Dctcl%20E1%3Dctcr%20F2%3Dctct%20F3%3Dctct
+[LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
