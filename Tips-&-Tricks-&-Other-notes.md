@@ -6,7 +6,7 @@
 
 ### Ground names
 Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flamish grounds.    
-Example: The picture shows the working-scheme's of one unit of _Slavian rose ground_ and one unit of _Fond au cinq trous_. Groundforge gives the same [result][ex-5G]. (This paragraph is not yet finished.)      
+Example: The picture shows the working-scheme's of one unit of _Slavic rose ground_ and one unit of _Fond au cinq trous_. Groundforge gives the same [result][ex-5G]. (This paragraph is not yet finished.)      
 ![rose-cinq][pic-r5g]
 
 ### Stitches
