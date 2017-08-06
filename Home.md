@@ -6,7 +6,7 @@ In this wiki you find pages with additional patterns for use in [Groundforge](ht
 ### Usage
 All patterns are links to the Groundforge main page. Follow the link and click `SHOW` in the `DIAGRAM` section. Please feel free to play with the stitches. E.g. try what happens if you change the default `ctc` of the spiders or fish in `ct`.
 
-Most of the patterns also have a scheme in the Groundforge gallery. Some, as the spiders and the larger fishes, don't. In the future there may be links to the gallery.
+Most of the patterns also have a scheme in the Tesselace index. Some, as the spiders and the larger fishes, don't. In the future there may be links to this index.
 
 ### Pictures
 The pictures in this wiki are mostly made in Knipling (TM).   
@@ -16,8 +16,9 @@ Most pair-diagrams are the styled versions that Groundforge understands. Red lin
 Some of these links you'll also find in the footer.
 
 [Groundforge user guide](https://github.com/d-bl/GroundForge/wiki)   
-[Whiting Index](http://gwydir.demon.co.uk/jo/lace/whiting/index.htm#picindex): Jo Edkins created an annotated online index on the grounds in _A Lace Guide for Makers and Collectors_ by Gertrude Whiting which dates from 1920.     
-[Groundforge Whiting Index](https://github.com/d-bl/GroundForge/wiki/Whiting-Index): The same index, with links to Groundforge scheme's and main page.
+[Whiting index](http://gwydir.demon.co.uk/jo/lace/whiting/index.htm#picindex): Jo Edkins created an annotated online index on the grounds in _A Lace Guide for Makers and Collectors_ by Gertrude Whiting which dates from 1920.     
+[Groundforge Whiting index](https://github.com/d-bl/GroundForge/wiki/Whiting-Index): The same index, with links to Groundforge scheme's and main page.       
+[Tesselace index](https://github.com/d-bl/GroundForge/wiki/TesseLace-Index)
 
 ### Disclaimer
 All links worked when created. Due to work on the Groundforge coding, there may be hiccups. There is a work-around, but I have to study this first. 
