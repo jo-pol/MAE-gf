@@ -2,7 +2,7 @@
 * [Ground names](#ground-names)
 * [Stitches](#stitches)
 * [Tiling](#tiling)
-* [Braids](#braids)
+* [Footsides](#Footsides)
 
 ### Ground names
 Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds.    
@@ -28,8 +28,8 @@ Most examples use the `brick` parameter setting, since it's less ID's to specify
 
 Please note, that the ID's needed for the stitches shift somehow. `A1` is not in the upperleft corner of the shown units in the examples.
 
-### Braids
-Groundforge can do braids, however, we have to feed it with a matrix covering the complete width of the braid, including footsides. This will lead to a considerable amount of ID's to specify in the stitches section. Therefore, the examples provided focus on just elements of the grounds. No attention is paid to footsides. This may sometimes lead to tilted figures.
+### Footsides
+The examples provided focus on just elements of the grounds. No attention is paid to footsides. This may sometimes lead to tilted figures. 
 
 
 
