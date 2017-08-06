@@ -19,7 +19,7 @@ Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and 
 Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture at the top of this article. 
 
 ### Fish building.
-The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. There are lots of them in the TesseLace index.
+The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. 
 
 ![fish generator][vis_gen]
      
