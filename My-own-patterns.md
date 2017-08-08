@@ -16,7 +16,7 @@ Clearly, this pattern as such can not be made with Groundforge, however, there i
 
 
 ### Sun stitch
-(c) M. Tempels    
+This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch.    
 [sun stitch in plaits][G-0902-f], [sun stitch in square][G-0902-q]
 
 
