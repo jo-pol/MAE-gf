@@ -2,7 +2,6 @@
 * [Introduction](#introduction)
 * [Fish notation](#fish-notation)
 * [Fish building](#fish-building)
-* [Whithing index](#whiting-index)
 * [Fish examples](#fish-examples)
 
 ### Introduction
@@ -26,17 +25,13 @@ The general fish scheme looks like the schemes in the picture. Of course, other 
 Building bigger fish is illustrated in the following picture. Please note the change of direction of the weavers.      
 ![fish builder][vis_bouw]
 
-### Whiting index
-In mrs Whiting index the following fishes are found: 
-> E14, [G14][F220]            
-> [D16][F42-], [E16][F421], [F16][F422], [G16][F222]
-
 ### Fish examples
 More will follow
+> WI E14   
 > [Fish B1,S2,W-][F12-]   
-> [Fish B2,S2,W-][F22-] , [Fish B2,S2,W0][F220] (G14), [Fish B2,S2,W2][F222] (G16)     
+> [Fish B2,S2,W-][F22-] , [Fish B2,S2,W0][F220] (WI G14), [Fish B2,S2,W2][F222] (WI G16)     
 > [Fish B3,S2,W2][F322]               
-> [Fish B4,S2,W-][F42-] (D16), [Fish B4,S2,W1][F421] (E16), [Fish B4,S2,W2][F422] (F16)      
+> [Fish B4,S2,W-][F42-] (WI D16), [Fish B4,S2,W1][F421] (WI E16), [Fish B4,S2,W2][F422] (WI F16)      
 > [Fish B5,S2,W-][F52-]    
 
 
