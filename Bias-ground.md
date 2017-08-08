@@ -9,7 +9,7 @@ under construction
 * [Bias Ground crossed and a row in between](#bias-ground-crossed-and-a-row-in-between)
 
 ### Introduction
-![pairdiagram][pic-0221-wt]      
+![pairdiagram][p-0221-wt]      
 The traditional Bias Ground, or Ornamental Ground, is made as in above pair-diagram. In this article we show different grounds based on this diagonal. 
 
 ### Traditional Bias Ground
@@ -17,14 +17,12 @@ The traditional Bias Ground, or Ornamental Ground, is made as in above pair-diag
 examples
 
 ###  Bias Ground crossed rose style
-Whiting index: D6, F4    
 ![crossed][P-0221-at]   
-> examples [D6][wi-D6], [F4][wi-F4]
+> examples [WI D6][wi-D6], [WI F4][wi-F4]
 
 ### Bias Ground crossed differently
-Whiting index: E6    
 ![alt crossed][P-0221-aa]    
-> examples [E6][wi-E6]
+> examples [WI E6][wi-E6]
 
 ### Bias Ground with a row in between
 ![row between][P-0221-vg]  
@@ -36,7 +34,7 @@ examples
 
 
 
-[pic-0221-wt]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200221%20wt.png
+[p-0221-wt]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200221%20wt.png
 [P-0221-tr]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20tr.png
 [P-0221-at]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20at.png
 [P-0221-aa]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20aa.png
