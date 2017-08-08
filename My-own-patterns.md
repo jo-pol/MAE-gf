@@ -1,6 +1,7 @@
 ### Contents
 * [Introduction](#introduction)
 * [Lace lintje](#lace-lintje)
+* [Sun stitch](#sun-stitch)
 
 (c) Marian Tempels
 
@@ -14,9 +15,15 @@ Clearly, this pattern as such can not be made with Groundforge, however, there i
 > [Lace lintje][LLLL]
 
 
+### Sun stitch
+(c) M. Tempels    
+[sun stitch in plaits][G-0902-f], [sun stitch in square][G-0902-q]
+
 
 
 
 [pic-ll]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/lacelintje.png
 
 [LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
+[G-0902-f]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=A1%3Dctctc%20C1%3Dctctc%20D2%3Dcrcllcrc%20B2%3Dclcrrclc%20D1%3Dctctctctc%20B1%3Dctctctctc
+[G-0902-q]: https://d-bl.github.io/GroundForge/index.html?m=586-21%0A-48317%0A5-4-7-%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctcttt%20F3%3Dctctc%20F2%3Dctctc%20E1%3Dcrcllcrc%20A1%3Dclcrrclc%20E3%3Dc%20A3%3Dc%20E2%3Dcttt%20A2%3Dcttt
