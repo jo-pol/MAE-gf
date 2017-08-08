@@ -12,6 +12,9 @@ Most of the patterns also have a scheme in the TesseLace index. Some, as the spi
 The pictures in this wiki are mostly made in Knipling (TM).   
 Most pair-diagrams are the styled versions that Groundforge understands. Red lines indicate the unit for the checkers-tiling, blue lines indicate the unit for the blocks-tiling.
 
+### References
+WI   Whiting index
+
 ### Other links
 Some of these links you'll also find in the footer.
 
