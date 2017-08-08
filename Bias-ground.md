@@ -10,7 +10,8 @@ under construction
 
 ### Introduction
 ![pairdiagram][p-0221-wt]      
-The traditional Bias Ground, or Ornamental Ground, is made as in above pair-diagram. In this article we show different grounds based on this diagonal. 
+The traditional Bias Ground, or Ornamental Ground, is made as in above pair-diagram. In this article we show different grounds based on this diagonal.   
+Some nice grounds can be made when using only one square unit. (Planned in fancy stitches.)    
 
 ### Traditional Bias Ground
 ![traditional][P-0221-tr]  
