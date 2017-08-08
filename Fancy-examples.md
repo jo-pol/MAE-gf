@@ -1,7 +1,7 @@
 Some fancy examples, collected on this page for now.
 ### Contents
 * [Squared rose ground](#squared-rose-ground)
-* [Plaits and Roses][#plaits-and-roses)
+* [Plaits and Roses](#plaits-and-roses)
 
 ### Squared rose ground
 By putting the traditional rose ground unit in a square, little stars can be made.   
