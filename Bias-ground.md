@@ -12,10 +12,11 @@ under construction
 ![pairdiagram][p-0221-wt]      
 The traditional Bias Ground, or Ornamental Ground, is made as in above pair-diagram. In this article we show different grounds based on this diagonal.   
 Some nice grounds can be made when using only one square unit. (Planned in fancy stitches.)    
+Better names for the examples will follow.   
 
 ### Traditional Bias Ground
 ![traditional][P-0221-tr]  
-> examples [traditional][G-0221-tr]
+> examples [traditional][G-0221-tr], [three][G-0228OD]
 
 ###  Bias Ground crossed rose style
 ![crossed][P-0221-at]   
@@ -50,6 +51,8 @@ The Bias and the row in between are connected diagonaly in the scheme. A horizon
 [G-0221-tr]: https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20B1%3Dct%20C2%3Dct
 [G-0221-vg]: https://d-bl.github.io/GroundForge/index.html?m=5-486-%0A-5-486%0A6-5-48%0A%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20C2%3Dct%20B1%3Dct%20A3%3Dct
 [G-0221-av]: https://d-bl.github.io/GroundForge/index.html?m=8-7-48%0A831214%0A488-7-%0A148312%0A7-488-%0A121483%0A%0A%3Bchecker%3B16%3B16%3B0%3B0&s1=ctct%20E4%3Dct%20F5%3Dct%20B1%3Dct%20D3%3Dct%20A6%3Dct%20C2%3Dct
+
+[G-0228OD]: https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtct%20C2%3Dtct
 
 
 
