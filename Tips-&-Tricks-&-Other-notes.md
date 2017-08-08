@@ -19,7 +19,7 @@ Names used in this wiki:
 Sometimes, onorthodox stitches are used, like `Cross only`. (Examples will be in this wiki.)
     
 ![pic-tct]Groundforge has rules as wich stitch-codes get what colour, according to the Belgian colour code. In this wiki, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example. 
-Suppose, we wish to work on the example above. The whole stitch & twist in the middle can be specified several ways. We prefer to use `ctc B1=tctct`, see [here][ex-tctct]. However, doing so, Groundforge colours this stitch in black in the pair-diagram (the left one). If we wish to see a red stitch, we have to use `ctc A1=ctcr A2=ctcr B2=ctct`, see [here][ex-ctct].
+Suppose, we wish to work on the example above. The whole stitch & twist in the middle can be specified several ways. We prefer to use `ctc B1=tctct`, see [here][ex-tctct]. However, doing so, Groundforge colours this stitch in black in the pair-diagram (the left one). If we wish to see a red stitch, we have to use `ctc A1=ctcr A2=ctcr B1=ctct`, see [here][ex-ctct].
 
 We have tried `ctctclllllctctc` as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 
