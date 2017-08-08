@@ -1,7 +1,7 @@
 ### Contents
 * [Introduction](#introduction)
 * [Lace lintje](#lace-lintje)
-* [Sun stitch](#sun-stitch)
+* [Sunny stitch](#sunny-stitch)
 
 (c) Marian Tempels
 
@@ -15,14 +15,16 @@ Clearly, this pattern as such can not be made with Groundforge, however, there i
 > [Lace lintje][LLLL]
 
 
-### Sun stitch
-This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch.    
-[sun stitch in plaits][G-0902-f], [sun stitch in square][G-0902-q]
+### Sunny stitch
+![sunny stitch][pic-0902]     
+This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch. The colour grey indicates `cross only`.     
+> [sunny stitch in plaits][G-0902-f], [sunny stitch in square][G-0902-q]
 
 
 
 
 [pic-ll]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/lacelintje.png
+[pic-0902]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-0902-wt.png
 
 [LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
 [G-0902-f]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=A1%3Dctctc%20C1%3Dctctc%20D2%3Dcrcllcrc%20B2%3Dclcrrclc%20D1%3Dctctctctc%20B1%3Dctctctctc
