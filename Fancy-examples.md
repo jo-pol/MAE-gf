@@ -2,6 +2,7 @@ Some fancy examples, collected on this page for now.
 ### Contents
 * [Squared rose ground](#squared-rose-ground)
 * [Squared snowflake](#squared-snow-flake)
+* [Squared spider][#squared-spider)
 * [Short bias](#short-bias)
 * [Plaits and Roses](#plaits-and-roses)
 
@@ -16,8 +17,8 @@ The little snowflake can also be put into a square. However, we have not been ab
 ![snowflake][pic-0306-OIv]   
 > [left][G-0306], right     
 
-### Squared Spiders
-See page [spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square)
+### Squared Spider
+See page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square)
 
 ### Short Bias
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter can give nice results in two colours.      
