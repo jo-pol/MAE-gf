@@ -1,6 +1,7 @@
 Some fancy examples, collected on this page for now.
 ### Contents
 * [Squared rose ground](#squared-rose-ground)
+* [Squared snowflake](#squared-snow-flake)
 * [Plaits and Roses](#plaits-and-roses)
 
 ### Squared rose ground
@@ -8,6 +9,10 @@ By putting the traditional rose ground unit in a square, little stars can be mad
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.   
 ![torchon-flemisch][pic-tor-flem]   
 > [Star][G-0112]
+
+### Squared snowflake
+The little snowflake can also be put into a square. 
+
 
 ### Plaits and Roses
 The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits. The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake.    
