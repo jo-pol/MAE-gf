@@ -1,4 +1,5 @@
-Some fancy examples, collected on this page for now.
+Some fancy examples, collected on this page for now. Names will be looked after later.    
+
 ### Contents
 * [Squared rose ground](#squared-rose-ground)
 * [Squared snowflake](#squared-snowflake)
