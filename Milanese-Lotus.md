@@ -13,7 +13,7 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 
 ### Lotus building
 The general Lotus scheme looks like the scheme in the picture. Of course, other scheme's are possible.      
-Building bigger lotus is similair to the building of bigger fish, as illustrated on the _Fish_ page.
+Building bigger lotus is similair to the building of bigger fish, as illustrated on the [_Fish_](https://github.com/MAETempels/MAE-gf/wiki/Milanese-Fish) page.
 
 ![lotus generator][lotus_gen]
 
