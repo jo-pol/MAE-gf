@@ -2,7 +2,7 @@ Some fancy examples, collected on this page for now.
 ### Contents
 * [Squared rose ground](#squared-rose-ground)
 * [Squared snowflake](#squared-snow-flake)
-* [Squared spider][#squared-spider)
+* [Squared spider](#squared-spider)
 * [Short bias](#short-bias)
 * [Plaits and Roses](#plaits-and-roses)
 
