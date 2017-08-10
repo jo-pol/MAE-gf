@@ -21,7 +21,8 @@ The little snowflake can also be put into a square. However, we have not been ab
 See page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square)
 
 ### Short Bias
-Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.      
+Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.        
+![short bias foto][foto-0228-OGy]        
 ![short bias 1][pic-0228-OG] ![short bias 2][pic-0228-OGy]
 > [left][G-0228-OG], [right][G-0228-OGy]
 
@@ -38,6 +39,8 @@ The traditional rose ground units separated with plaits. Please note: the plaits
 [pic-0306-OIv]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200301%20wt.png
 [pic-0228-OG]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200228-OG.png
 [pic-0228-OGy]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200228%20OGy.png
+
+[foto-0228-OGy]: https://github.com/MAETempels/MAE-gf/blob/master/photos/gf-0228-foto.png
 
 [G-0112]: https://d-bl.github.io/GroundForge/index.html?m=586-21%0A-48317%0A5-4-7-%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctt%20E3%3Dc%20A3%3Dc%20E2%3Dctt%20A2%3Dctt%20A1%3Dctcl%20E1%3Dctcr%20F2%3Dctct%20F3%3Dctct
 [G-0342]: https://d-bl.github.io/GroundForge/index.html?m=--B-C---%0A-E-5-O-K%0A5-----5-%0A-------5%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20H4%3Dctctctctc%20D4%3Dctctctctc%20B2%3Dctct%20A3%3Dcr%20C3%3Dcl%20B4%3Dc
