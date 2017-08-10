@@ -11,29 +11,29 @@ under construction
 ### Introduction
 ![pairdiagram][p-0221-wt]      
 The traditional Bias Ground, or Ornamental Ground, is made as in above pair-diagram. In this article we show different grounds based on this diagonal.   
-Some nice grounds can be made when using only one square unit. (Planned in fancy stitches.)    
+Some nice grounds can be made when using only one square unit, see [Fancy stitches](https://github.com/MAETempels/MAE-gf/wiki/Fancy%20stitches)    
 Better names for the examples will follow.   
 
 ### Traditional Bias Ground
 ![traditional][P-0221-tr]  
-> examples [traditional][G-0221-tr], [three][G-0228OD]
+> [traditional][G-0221-tr], [three][G-0228OD]
 
 ###  Bias Ground crossed rose style
 ![crossed][P-0221-at]   
-> examples [WI D6][wi-D6], [WI F4][wi-F4]
+> [WI D6][wi-D6], [WI F4][wi-F4]
 
 ### Bias Ground crossed differently
 ![alt crossed][P-0221-aa]    
-> examples [WI E6][wi-E6]
+> [WI E6][wi-E6]
 
 ### Bias Ground with a row in between
 The Bias and the row in between are connected diagonaly in the scheme. A horizontal connection also works.      
 ![row between][P-0221-vg]  
-> examples [one][G-0221-vg]
+> [one][G-0221-vg]
 
 ### Bias Ground crossed and a row in between   
 ![row & crossed][P-0221-av]    
-> examples [two][G-0221-av]
+> [two][G-0221-av]
 
 
 
