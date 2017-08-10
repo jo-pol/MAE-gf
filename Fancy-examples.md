@@ -16,6 +16,9 @@ The little snowflake can also be put into a square. However, we have not been ab
 ![snowflake][pic-0306-OIv]   
 > [left][G-0306], right     
 
+### Squared Spiders
+See page [spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square)
+
 ### Short Bias
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter can give nice results in two colours.      
 ![short bias 1][pic-0228-OG] ![short bias 2][pic-0228-OGy]
