@@ -44,3 +44,7 @@ D3AB-5-C
 (A self repeating scheme, nice.)
 
 ### Stacked pagoda
+5-4-5-
+-215-5
+5-78-1
+8-4-58
