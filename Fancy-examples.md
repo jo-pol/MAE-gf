@@ -7,13 +7,13 @@ Some fancy examples, collected on this page for now. Names will be looked after 
 * [Short bias](#short-bias)
 * [Plaits and Roses](#plaits-and-roses)
 
-### Squared rose ground
+### Squared Rose ground
 By putting the traditional rose ground unit in a square, little stars can be made.   
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.   
 ![torchon-flemisch][pic-tor-flem]   
 > [Star][G-0112]
 
-### Squared snowflake
+### Squared Snowflake
 The little snowflake can also be put into a square. However, we have not been able (yet) to discover the scheme for the crossed snowflake on the right.   
 ![snowflake][pic-0306-OIv]   
 > [left][G-0306], right     
