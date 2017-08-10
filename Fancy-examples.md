@@ -2,6 +2,7 @@ Some fancy examples, collected on this page for now.
 ### Contents
 * [Squared rose ground](#squared-rose-ground)
 * [Squared snowflake](#squared-snow-flake)
+* [Short bias](#short-bias)
 * [Plaits and Roses](#plaits-and-roses)
 
 ### Squared rose ground
@@ -11,8 +12,14 @@ Please note: when making the actual lace, it will make a big difference if the u
 > [Star][G-0112]
 
 ### Squared snowflake
-The little snowflake can also be put into a square.    
-![snowflake][pic-sf-sq]
+The little snowflake can also be put into a square. However, we have not been able (yet) to discover the scheme for the crossed snowflake on the right.   
+![snowflake][pic-0306-OIv]   
+> [left][G-0306], right     
+
+### Short Bias
+Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter can give nice results in two colours.      
+![short bias 1][pic-0228-OG] ![short bias 2][pic-0228-OGy]
+> [left][G-0228-OG], [right][G-0228-OGy]
 
 
 ### Plaits and Roses
@@ -24,7 +31,12 @@ The traditional rose ground units separated with plaits. Please note: the plaits
 
 [pic-tor-flem]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-tor-vl.png
 [pic-fusion]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-fusion.png
-[pic-sf-sq]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200301%20wt.png
+[pic-0306-OIv]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200301%20wt.png
+[pic-0228-OG]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200228-OG.png
+[pic-0228-OGy]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200228%20OGy.png
 
 [G-0112]: https://d-bl.github.io/GroundForge/index.html?m=586-21%0A-48317%0A5-4-7-%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctt%20E3%3Dc%20A3%3Dc%20E2%3Dctt%20A2%3Dctt%20A1%3Dctcl%20E1%3Dctcr%20F2%3Dctct%20F3%3Dctct
 [G-0342]: https://d-bl.github.io/GroundForge/index.html?m=--B-C---%0A-E-5-O-K%0A5-----5-%0A-------5%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20H4%3Dctctctctc%20D4%3Dctctctctc%20B2%3Dctct%20A3%3Dcr%20C3%3Dcl%20B4%3Dc
+[G-0306]: https://d-bl.github.io/GroundForge/index.html?m=5--5--%0A-C632B%0A566-22%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctt%20E1%3Dct%20A1%3Dct%20F2%3Dct%20B3%3Dctl%20D3%3Dctr%20F3%3Dctct
+[G-0228-OG]: https://d-bl.github.io/GroundForge/index.html?m=86-5%0A4-5-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20C1%3Dtct
+[G-0228-OGy]: https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dtct%20C1%3Dtct
