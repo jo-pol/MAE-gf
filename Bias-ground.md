@@ -11,7 +11,7 @@ under construction
 ### Introduction
 ![pairdiagram][p-0221-wt]      
 The traditional Bias Ground, or Ornamental Ground, is made as in above pair-diagram. In this article we show different grounds based on this diagonal.   
-Some nice grounds can be made when using only one square unit, see [Fancy stitches](https://github.com/MAETempels/MAE-gf/wiki/Fancy%20stitches)    
+Some nice grounds can be made when using only one square unit, see [Fancy examples](https://github.com/MAETempels/MAE-gf/wiki/Fancy%20examples)    
 Better names for the examples will follow.   
 
 ### Traditional Bias Ground
