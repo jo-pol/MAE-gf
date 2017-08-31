@@ -17,8 +17,8 @@ In this article we show several placings of one unit of the _Pagoda_ or _Triangu
 { picture of one unit
 
 ### Building Pagoda's
-Bigger pagoda's can be build much in the same way as fish.
->>>> picture of pagoda building
+Bigger pagoda's can be build much in the same way as fish. The coloured dots indicate what goes where when translating the working scheme into a matrix.        
+![building pagoda's][build pagoda]
 
 ### Traditional pagoda's
 4-12; -5--; 6-CD OR -70F; -4--; -MCD
@@ -48,3 +48,5 @@ D3AB-5-C
 -215-5
 5-78-1
 8-4-58
+
+[build pagoda]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20build%20pagoda.png
