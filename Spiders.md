@@ -14,7 +14,8 @@ On this page we show (via links) examples of matrices for grounds with all spide
 Some of the spiders in these examples only have one twist in their legs. This will be corrected somewhere in the future.
 
 ### Building Spiders
-Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy. In fact, a formula can be made.      
+Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy. In fact, a formula can be made, see the [_Math_](https://github.com/MAETempels/MAE-gf/wiki/Mathematics#spider-formulas) page.   
+   
 The traditional spiders looks like this:   
 ![spider generator trad][pic-gen]    
 Spiders with an eye look like this:        
