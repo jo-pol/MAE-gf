@@ -16,7 +16,7 @@ there will be pictures
 In this article we show several placings of one unit of the _Pagoda_ or _Triangular_ ground.
 { picture of one unit
 
-### Building Pagoda
+### Building Pagoda's
 Bigger pagoda's can be build much in the same way as fish.
 >>>> picture of pagoda building
 
