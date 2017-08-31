@@ -1,12 +1,10 @@
-# Under construction
-
 ### Introduction
 In this wiki you find pages with additional patterns for use in [Groundforge](https://d-bl.github.io/GroundForge/), made by [Jo Pol](https://github.com/d-bl). Given are the parameter-section and, in most cases, stitches, although not always traditional.
 
 ### Usage
 All patterns are links to the Groundforge main page. Follow the link and click `SHOW` in the `DIAGRAM` section. Please feel free to play with the stitches. E.g. try what happens if you change the default `ctc` of the spiders or fish in `ct`.
 
-Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't. In the future there may be links to this index.
+Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't. 
 
 ### Pictures
 The pictures in this wiki are mostly made in Knipling (TM).   
