@@ -4,12 +4,12 @@ there will be pictures
 
 ### Contents
 * [Introduction](#introduction)
-* [Building Pagoda](#building-pagoda)
-* [Traditional Pagoda](#traditional-pagoda)
-* [Bigger Pagoda](#bigger-pagoda)
-* [Pagoda kissing](#pagoda-kissing)
-* [Pagoda facing](#pagoda-facing)
-* [Stacked pagoda](#stacked-pagoda)
+* [Building Pagoda's](#building-pagodas)
+* [Traditional Pagoda's](#traditional-pagodas)
+* [Bigger Pagoda's](#bigger-pagodas)
+* [Pagoda's kissing](#pagodas-kissing)
+* [Pagoda's facing](#pagodas-facing)
+* [Stacked pagoda's](#stacked-pagodas)
 
 
 ### Introduction
@@ -20,21 +20,21 @@ In this article we show several placings of one unit of the _Pagoda_ or _Triangu
 Bigger pagoda's can be build much in the same way as fish.
 >>>> picture of pagoda building
 
-### Traditional pagoda
+### Traditional pagoda's
 4-12; -5--; 6-CD OR -70F; -4--; -MCD
 
-### Bigger pagoda
+### Bigger pagoda's
 5-----
 -CDDD6
 246631
 224-12
 
-### Pagoda kissing
+### Pagoda's kissing
 5---5---
 -CD6-2AB
 -468-127
 
-### Pagoda facing
+### Pagoda's facing
 5-----5-
 -CD3AB-5
 2468-7-1
@@ -43,7 +43,7 @@ D3AB-5-C
 68-7-124
 (A self repeating scheme, nice.)
 
-### Stacked pagoda
+### Stacked pagoda's
 5-4-5-
 -215-5
 5-78-1
