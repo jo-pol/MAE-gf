@@ -13,11 +13,12 @@ there will be pictures
 
 
 ### Introduction
-In this article we show several placings of one unit of the _Pagoda_ or _Triangular_ ground.
-{ picture of one unit
+In this article we show several placings of one unit of the _Pagoda_ or _Triangular_ ground.   
+
 
 ### Building Pagoda's
-Bigger pagoda's can be build much in the same way as fish. The coloured dots indicate what goes where when translating the working scheme into a matrix.        
+Bigger pagoda's can be build much in the same way as building bigger fish. 
+The coloured dots indicate what goes where when translating the working scheme into a matrix. The black lines indicate one unit, the grey lines show where the other units connect.            
 ![building pagoda's][build pagoda]
 
 ### Traditional pagoda's
