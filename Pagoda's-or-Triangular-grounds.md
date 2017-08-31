@@ -11,7 +11,7 @@
 
 ### Introduction
 In this article we show several placings of one unit of the _Pagoda_ or _Triangular_ ground.   
-The unit for the pagoda ground looks like the left in the picture below. The ground can be indicated very abstract with the image on the right. Please note, that some of the examples may be mirrored.         
+The unit for the pagoda ground looks like the left in the picture below. The ground can be indicated very abstract with the image on the right. Please note that some of the examples are mirrored.         
 ![pg unit][pg-unit]
 
 ### Building Pagoda's
