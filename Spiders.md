@@ -6,8 +6,8 @@
 - [Traditional spiders](#traditional-spiders)
 - [Spiders with an eye](#spiders-with-an-eye)
 - [Spiders in a square](#spiders-in-a-square)
-- [Binche spiders](#binche-spiders)
 - [Spiders with an eye, in a square](#spiders-with-an-eye-in-a-square)
+- [Binche spiders](#binche-spiders)
      
 ### Introduction
 On this page we show (via links) examples of matrices for grounds with all spiders.            
@@ -43,15 +43,17 @@ It consists of a 3 legged spider with a ring in whole stitch and twist, making i
    
 Larger spiders are possible, but it will take Groundforge some time to generate te pictures.   
        
+### Spiders with an eye in a square 
+> [4x3 legs][shq3], [4x4 legs][shq4]
+
 ### Binche spiders 
 "Bolletje".    
 > [binche spider][wi-g04] (WI G4)
 
 Traditional spider, on a Binche pricking.       
 > [traditional spider, binche style][wi-e02] (WI E2)
-      
-### Spiders with an eye in a square 
-> [4x3 legs][shq3], [4x4 legs][shq4]
+
+
 
 [pic-ts]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204t.png
 [pic-gen]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%20gen.png
