@@ -6,7 +6,8 @@ On this page some mathematics for those who like that. Including formula in pseu
 
 ### Spider formula's
 As shown in the [spiders][spiders-page] article, spider-matrices can be generated.  
-In all formula's N is the number of legs on one side. The spider will have 4N legs. Spaces have to be ingored.
+In all formula N is the number of legs on one side. The spider will thus have 4N legs.       
+Spaces have to be ingored. The sign & means "concatenate": "A" & "B" => "AB". The "" are omitted.    
 
 For the **traditional spider in a square**, the following code will do the trick. N>=2.
 
