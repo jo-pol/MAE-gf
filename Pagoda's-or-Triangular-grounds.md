@@ -44,7 +44,7 @@ Please note: traditionally the pagoda-ground uses a weaver, that returns round t
 ### Pagoda in a square
 Why not? The units can be placed all facing in the same direction, or alternating.     
 ![pg in square][pg-sqre]  
-> [facing][ex-face], alternating (to come)
+> [square][ex-sqre], alternating (to come)
 
 
 
