@@ -59,7 +59,8 @@ D3AB-5-C
 
 ### Pagoda in a square
 Why not? The units can be placed all facing in the same direction, or alternating.     
-![pg in square][pg-sqre]
+![pg in square][pg-sqre]  
+> [facing][ex-face]
 
 
 
@@ -72,3 +73,5 @@ Why not? The units can be placed all facing in the same direction, or alternatin
 [pg-bigg]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-bigg.png
 [pg-face]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-face.png
 [pg-sqre]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-sqre.png
+
+[ex-face]: https://d-bl.github.io/GroundForge/index.html?m=215-5-%0A-786-5%0A246-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dtctc%20B2%3Drctc%20A2%3Dctc%20F2%3Dlctclctcll%20D3%3Dctc%20E3%3Dctcrr%20D1%3Dctctt
