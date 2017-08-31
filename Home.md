@@ -12,7 +12,7 @@ Most of the patterns also have a scheme in the TesseLace index. Some, as the spi
 The pictures in this wiki are mostly made in Knipling (TM).   
 
 ### References
-WI   Whiting index
+WI = Whiting index
 
 ### Other links
 Some of these links you'll also find in the footer.
