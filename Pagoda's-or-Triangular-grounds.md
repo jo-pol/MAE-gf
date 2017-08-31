@@ -58,7 +58,7 @@ Why not? The units can be placed all facing in the same direction, or alternatin
 [pg-face]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-face.png
 [pg-sqre]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-sqre.png
 
-[ex-face]: https://d-bl.github.io/GroundForge/index.html?m=215-5-%0A-786-5%0A246-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dtctc%20B2%3Drctc%20A2%3Dctc%20F2%3Dlctclctcll%20D3%3Dctc%20E3%3Dctcrr%20D1%3Dctctt
+[ex-sqre]: https://d-bl.github.io/GroundForge/index.html?m=215-5-%0A-786-5%0A246-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dtctc%20B2%3Drctc%20A2%3Dctc%20F2%3Dlctclctcll%20D3%3Dctc%20E3%3Dctcrr%20D1%3Dctctt
 [ex-trad]: https://d-bl.github.io/GroundForge/index.html?m=4-12%0A-5--%0A6-CD%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20C1%3Dtttctc%20A2%3Dctcttt
 [ex-bigg]: https://d-bl.github.io/GroundForge/index.html?m=5-----%0A-CDDD6%0A246631%0A224-12%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A1%3Dlllctc%20E4%3Dtttctc%20D1%3Dctclll%20E2%3Dctcttt
 [ex-kiss]: https://d-bl.github.io/GroundForge/index.html?m=5---5---%0A-CD6-2AB%0A-468-127%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20F3%3Dttctc%20H3%3Dttctc%20B1%3Dctctt%20D1%3Dctctt
