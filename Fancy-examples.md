@@ -5,7 +5,8 @@ Some fancy examples, collected on this page for now. Names will be looked after 
 * [Squared rose ground](#squared-rose-ground)
 * [Squared snowflake](#squared-snowflake)
 * [Squared spider](#squared-spider)
-* [Squared pagoda](#squared-pagoda)          
+* [Squared pagoda](#squared-pagoda)       
+   
 **Others**
 * [Short bias](#short-bias)
 * [Plaits and Roses](#plaits-and-roses)
