@@ -1,10 +1,12 @@
 Some fancy examples, collected on this page for now. Names will be looked after later.    
 
 ### Contents
+**Squares**
 * [Squared rose ground](#squared-rose-ground)
 * [Squared snowflake](#squared-snowflake)
 * [Squared spider](#squared-spider)
 * [Squared pagoda](#squared-pagoda)
+**Others**
 * [Short bias](#short-bias)
 * [Plaits and Roses](#plaits-and-roses)
 
