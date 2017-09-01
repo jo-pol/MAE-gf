@@ -18,7 +18,7 @@ Please note: when making the actual lace, it will make a big difference if the u
 > [Star][G-0112]
 
 ### Squared Snowflake
-The little snowflake can also be put into a square. However, we have not been able (yet) to discover the scheme for the crossed snowflake on the right.   
+The little snowflake can also be put into a square. However, we have not been able (yet) to discover the matrix-scheme for the crossed snowflake on the right.   
 ![snowflake][pic-0306-OIv]   
 > [left][G-0306], right     
 
