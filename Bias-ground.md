@@ -16,7 +16,7 @@ Better names for the examples will follow.
 
 ### Traditional Bias Ground
 ![traditional][P-0221-tr]  
-> [traditional][G-0221-tr], [three][G-0228OD]
+> [traditional][G-0221-tr], [cloth][G-0228OD]
 
 ###  Bias Ground crossed rose style
 ![crossed][P-0221-at]   
