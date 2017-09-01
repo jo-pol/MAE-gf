@@ -25,7 +25,7 @@ Suppose, we wish to work on the example above. The whole stitch & twist in the m
 We have tried `ctctclllllctctc` as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 
 ### Tiling
-Most examples use the `brick` parameter setting, since it's less ID's to specify. Some scheme's do not have a working brick diagram, so, of course, a `checkers` parameter is used.
+Most examples use the `brick` parameter setting, drawn as a blue rectangle when shown, since it's less ID's to specify. Some scheme's do not have a working brick diagram, so, of course, a `checkers` parameter is used, drawn as a red rectangle when shown.
 
 Please note, that the ID's needed for the stitches shift somehow. `A1` is not in the upperleft corner of the shown units in the examples.
 
