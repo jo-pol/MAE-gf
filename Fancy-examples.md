@@ -45,8 +45,8 @@ The traditional rose ground units separated with plaits. Please note: the plaits
 [pic-tor-flem]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-tor-vl.png
 [pic-fusion]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-fusion.png
 [pic-0306-OIv]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200301%20wt.png
-[pic-0228-OG]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200228-OG.png
-[pic-0228-OGy]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200228%20OGy.png
+[pic-0228-OG]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200228-OG.png
+[pic-0228-OGy]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200228%20OGy.png
 
 [foto-0228-OGy]: https://github.com/MAETempels/MAE-gf/blob/master/photos/gf-0228-foto.jpg
 
