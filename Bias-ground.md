@@ -11,7 +11,7 @@ under construction
 ### Introduction
 ![pairdiagram][p-0221-wt]      
 The traditional Bias Ground, or Ornamental Ground, is made as in above pair-diagram. In this article we show different grounds based on this diagonal.   
-Other nice grounds can be obtained by using one unit only. See [Fancy examples](https://github.com/MAETempels/MAE-gf/wiki/Fancy%20examples#short-bias).   
+Other nice grounds can be obtained by using one unit only. See [_Fancy examples_](https://github.com/MAETempels/MAE-gf/wiki/Fancy%20examples#short-bias).   
 Better names for the examples will follow.   
 
 ### Traditional Bias Ground
@@ -27,7 +27,7 @@ Better names for the examples will follow.
 > [WI E6][wi-E6]
 
 ### Bias Ground with a row in between
-The Bias and the row in between are connected diagonaly in the scheme. A horizontal connection also works.      
+The Bias and the row in between are connected diagonaly in the matrix-scheme. A horizontal connection also works.      
 ![row between][P-0221-vg]  
 > [one][G-0221-vg]
 
@@ -38,11 +38,11 @@ The Bias and the row in between are connected diagonaly in the scheme. A horizon
 
 
 [p-0221-wt]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200221%20wt.png
-[P-0221-tr]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20tr.png
-[P-0221-at]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20at.png
-[P-0221-aa]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20aa.png
-[P-0221-vg]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20vg.png
-[P-0221-av]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%200221%20av.png
+[P-0221-tr]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-bias-tr.png
+[P-0221-at]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-bias-at.png
+[P-0221-aa]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-bias-aa.png
+[P-0221-vg]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-bias-vg.png
+[P-0221-av]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-bias-av.png
 
 [wi-D6]: https://d-bl.github.io/GroundForge/index.html?m=8-48%0A8314%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20D2%3Dctct%20A1%3Dctct%20C1%3Dctct%20B2%3Dctct
 [wi-F4]: https://d-bl.github.io/GroundForge/index.html?m=1483%208-48%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctcllctc%20C2%3Dctcrrctc
