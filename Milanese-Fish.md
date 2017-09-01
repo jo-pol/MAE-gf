@@ -18,7 +18,7 @@ Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and 
 Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture at the top of this article. 
 
 ### Fish building.
-The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. 
+The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. Please note that an even or odd number of "waves" dictate if a _brick_-matrix is possible.      
 
 ![fish generator][vis_gen]
      
