@@ -34,7 +34,7 @@ Please note: traditionally the pagoda-ground uses a weaver, that returns round t
 
 ### Pagoda's facing
 ![pg facing][pg-face]    
-> [facing][ex-face]         
+> [facing][ex-face]               
 (A self repeating scheme, nice.)
 
 ### Stacked pagoda's
@@ -42,7 +42,7 @@ Please note: traditionally the pagoda-ground uses a weaver, that returns round t
 > [stacked][ex-stck]
          
 ### Pagoda in a square
-Why not? The units can be placed all facing in the same direction, or alternating.     
+The units can be placed all facing in the same direction, or alternating.     
 ![pg in square][pg-sqre]  
 > [square][ex-sqre], alternating (to come)
 
