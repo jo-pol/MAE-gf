@@ -2,7 +2,7 @@
 * [Introduction](#introduction)
 * [How to use this wiki](#how-to-use-this-wiki)
 * [Diagrams](#diagrams)
-* [References](#referenses)
+* [References](#references)
 * [Other links](#other-links)
 * [Disclaimer](#disclaimer)
 
