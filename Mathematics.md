@@ -1,4 +1,5 @@
 ### Contents
+* [Introduction](#introduction)
 * [Spider formula's](#spider-formulas)
 
 ### Introduction
@@ -9,8 +10,8 @@ As shown in the [spiders][spiders-page] article, spider-matrices can be generate
 In all formula N is the number of legs on one side. The spider will thus have 4N legs.       
 Spaces have to be ingored. The sign & means "concatenate": "A" & "B" => "AB". The "" are omitted.    
 
-For the **traditional spider in a square**, the following code will do the trick. N>=2.
-
+For the **traditional spider in a square**, the following code will do the trick. N>=2.      
+Brick:       
 `5 & (for i=1 to 5: -) & 5 & (for i=1 to 5: -)               `     
 `-C & (for i=1 to N-2: D) & 632 & (for i=1 to N-2: A) & B    `           
 `(for j=1 to N-2:                                                `      
