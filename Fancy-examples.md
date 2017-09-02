@@ -23,10 +23,11 @@ The little snowflake can also be put into a square. However, we have not been ab
 > [left][G-0306], right     
 
 ### Squared Spider
-See page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square)
+See page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square).
 
 ### Squared pagoda
-See page [Pagoda's](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds#pagoda-in-a-square)
+See page [Pagoda's](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds). 
+(The following [link](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds#pagoda-in-a-square) directly to the paragraph does not work correctly.)
 
 ### Short Bias
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.        
