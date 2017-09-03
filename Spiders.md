@@ -52,9 +52,11 @@ Larger spiders are possible, but it will take Groundforge some time to generate 
 
 ### Binche spiders 
 "Bolletje".    
+![binche spider][pic-bi-boll]
 > [binche spider][wi-g04] (WI G4)
 
-Traditional spider, on a Binche pricking.       
+Traditional spider, on a Binche pricking.   
+![binche small spider][pic-bi-spin]    
 > [traditional spider, binche style][wi-e02] (WI E2)
 
 
@@ -66,6 +68,8 @@ Traditional spider, on a Binche pricking.
 [pic-sq]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204s.png
 [pic-sp-trad]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-sp-trad.png
 [pic-sp-gat]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-sp-gat.png
+[pic-bi-boll]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-bi-boll.png
+[pic-bi-spin]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-bi-spin.png
 
 
 [st2]: https://d-bl.github.io/GroundForge/index.html?m=-5--%0AB-C-%0A-5-5%0A5-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttctc%20A4%3Dctcll%20D1%3Dctctt%20%20C4%3Dctcrr
