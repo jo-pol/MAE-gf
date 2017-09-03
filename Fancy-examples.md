@@ -18,7 +18,7 @@ Please note: when making the actual lace, it will make a big difference if the u
 > [Star][G-0112]
 
 ### Squared Snowflake
-The little snowflake can also be put into a square. However, we have not been able (yet) to discover a working matrix-scheme for the crossed snowflake on the right. There is a matrix-scheme, but this is to big. See the article [Maths](https://github.com/MAETempels/MAE-gf/wiki/Mathematics#to-big-matrix).       
+The little snowflake can also be put into a square. However, we have not been able (yet) to discover a working matrix-scheme for the crossed snowflake on the right. There is a matrix-scheme, but this is to big. See the article on the [Maths](https://github.com/MAETempels/MAE-gf/wiki/Mathematics#to-big-matrix) page.       
 ![snowflake][pic-0306-OIv]   
 > [left][G-0306], right     
 
