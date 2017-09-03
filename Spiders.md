@@ -24,6 +24,7 @@ Spiders with an eye look like this:
 For the complete scheme's we chose to connect the spiders diagonaly. Of course, connecting with a horizontal line will also work. For the spiders in a square, the connection between spider and square has to be horizontal.
 
 ### Traditional spiders
+![traditional spider][pic-sp-trad]
 > [4x2 legs][st2] (WI F2), [4x3 legs][st3] (WI E4), [4x4 legs][st4], [4x5 legs][st5]  
 
 Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has to be chosen in the heart of the spider.
@@ -31,6 +32,7 @@ Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has t
 [Another][sa1] ground can be obtained using the corresponding checkers-matrix, but set the tiling parameter to "brick".
     
 ### Spiders with an eye
+![spider with an eye][pic-sp-gat]
 > [4x2 legs][sh2], [4x3 legs][sh3], [4x4 legs][sh4]
 
 Please note: to get a clear eye in te middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: `A5=ctclctc E5=ctcrctc`.
@@ -38,7 +40,7 @@ Please note: to get a clear eye in te middle, the stitches in the eye of the spi
 ### Spiders in a square
 Ground _WI G2_ has the following working scheme:      
 It consists of a 3 legged spider with a ring in whole stitch and twist, making it a four legged spider. This spider is embedded in a square. Several of these squares are connected.   
-![working scheme][pic-sq-wt]        
+![spider in square][pic-sq-wt]        
 > [4x2 legs][sq2], [4x3 legs][sq3] (WI H2), [4x4 legs][sq4] (WI G2), [4x5 legs][sq5]   
    
 Larger spiders are possible, but it will take Groundforge some time to generate te pictures.   
@@ -60,6 +62,8 @@ Traditional spider, on a Binche pricking.
 [pic-gon]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spon%20gn.png
 [pic-sq-wt]: https://github.com/MAETempels/mae-gf/blob/master/images_wt/gf%20spin%204s%20wt.png
 [pic-sq]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204s.png
+[pic-sp-trad]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-sp-trad.png
+[pic-sp-gat]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-sp-gat.png
 
 
 [st2]: https://d-bl.github.io/GroundForge/index.html?m=-5--%0AB-C-%0A-5-5%0A5-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttctc%20A4%3Dctcll%20D1%3Dctctt%20%20C4%3Dctcrr
