@@ -17,7 +17,9 @@ The unit for the pagoda ground looks like the left in the picture below. The gro
 ### Building Pagoda's
 Bigger pagoda's can be build much in the same way as building bigger fish. 
 The coloured dots indicate what goes where when translating the working scheme into a matrix. The black lines indicate one unit, the grey lines show where the other units connect.                 
-![building pagoda's][build pagoda]
+![building pagoda's][build pagoda]   
+The following unit looks more like the working-scheme. It works nice as a building block for the traditional pagoda, however, the matrix-scheme's for the other pagoda examples are harder to achieve.      
+![alt unit][pg-uni2]
 
 ### Traditional pagoda's
 Please note: traditionally the pagoda-ground uses a weaver, that returns round the pin with two twists at the pointy bit. The example looked better not turning.     
@@ -25,6 +27,7 @@ Please note: traditionally the pagoda-ground uses a weaver, that returns round t
 > [traditional][ex-trad] 
 
 ### Bigger pagoda's
+The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme.         
 ![pg bigger][pg-bigg]   
 > [bigger pagoda][ex-bigg]
 
@@ -49,6 +52,7 @@ The units can be placed all facing in the same direction, or alternating.
 
 
 [build pagoda]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20build%20pagoda.png
+[pg-uni2]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf-pg-uni2.png
 
 [pg-unit]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-unit.png
 [pg-trad]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-trad.png
@@ -57,6 +61,7 @@ The units can be placed all facing in the same direction, or alternating.
 [pg-bigg]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-bigg.png
 [pg-face]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-face.png
 [pg-sqre]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-sqre.png
+
 
 [ex-sqre]: https://d-bl.github.io/GroundForge/index.html?m=215-5-%0A-786-5%0A246-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dtctc%20B2%3Drctc%20A2%3Dctc%20F2%3Dlctclctcll%20D3%3Dctc%20E3%3Dctcrr%20D1%3Dctctt
 [ex-trad]: https://d-bl.github.io/GroundForge/index.html?m=4-12%0A-5--%0A6-CD%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20C1%3Dtttctc%20A2%3Dctcttt
