@@ -4,6 +4,7 @@
 - [Introduction](#introduction)
 - [Building Spiders](#building-spiders) 
 - [Traditional spiders](#traditional-spiders)
+- [Stacked spiders](#stacked-spiders)
 - [Spiders with an eye](#spiders-with-an-eye)
 - [Spiders in a square](#spiders-in-a-square)
 - [Spiders with an eye, in a square](#spiders-with-an-eye-in-a-square)
@@ -29,6 +30,7 @@ For the complete scheme's we chose to connect the spiders diagonaly. Of course, 
 
 Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has to be chosen in the heart of the spider.
 
+### Stacked spiders
 [Another][sa1] ground can be obtained using the corresponding checkers-matrix, but set the tiling parameter to "brick".
     
 ### Spiders with an eye
