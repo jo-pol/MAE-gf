@@ -7,7 +7,7 @@
 * [Disclaimer](#disclaimer)
 
 ### Introduction
-In this wiki you find pages with additional patterns for use in [Groundforge](https://d-bl.github.io/GroundForge/), made by [Jo Pol](https://github.com/d-bl). Given are the parameter-section and, in most cases, stitches, although not always traditional.
+In this wiki you find pages with additional patterns for use in [Groundforge](https://d-bl.github.io/GroundForge/), made by [Jo Pol](https://github.com/jo-pol). Given are the parameter-section and, in most cases, stitches, although not always traditional.
 
 ### How to use this wiki
 All examples are links to the Groundforge main page. Follow the link and click `SHOW` in the `DIAGRAM` section. Please feel free to play with the stitches. E.g. try what happens if you change the default `ctc` of the spiders or fish in `ct`.      
