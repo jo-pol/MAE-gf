@@ -47,7 +47,7 @@ The resulting thread diagram shows a pagoda that is bended over, due to the chos
 ### Pagoda in a square
 The units can be placed all facing in the same direction, or alternating.     
 ![pg in square][pg-sqre]  
-> [square][ex-sqre], alternating (to come)
+> [square][ex-sqre]
 
 
 
