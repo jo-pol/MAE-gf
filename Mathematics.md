@@ -13,7 +13,7 @@ Spaces have to be ingored. The sign & means "concatenate": "A" & "B" => "AB". Th
 
 For the **traditional spider in a square**, the following code will do the trick. N>=2.      
 Brick:       
-`5 & (for i=1 to 5: -) & 5 & (for i=1 to 5: -)               `     
+`5 & (for i=1 to N: -) & 5 & (for i=1 to N: -)               `     
 `-C & (for i=1 to N-2: D) & 632 & (for i=1 to N-2: A) & B    `           
 `(for j=1 to N-2:                                                `      
 `5 & (for i=1 to N: 6) & 3 & (for i=1 to N: 2)               `      
