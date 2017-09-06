@@ -5,8 +5,8 @@ under construction
 * [Traditional Bias Ground](#traditional-bias-ground)
 * [Bias Ground crossed rose style](#bias-ground-crossed-rose-style)
 * [Bias Ground crossed differently](#bias-ground-crossed-differently)
-* [Bias Ground with a row  in between](#bias-ground-with-a-row-in-between)
-* [Bias Ground crossed and a row in between](#bias-ground-crossed-and-a-row-in-between)
+* [Bias Ground with a diagonal in between](#bias-ground-with-a-diagonal-in-between)
+* [Bias Ground crossed and a diagonal in between](#bias-ground-crossed-and-a-diagonal-in-between)
 
 ### Introduction
 ![pairdiagram][p-0221-wt]      
@@ -26,12 +26,12 @@ Better names for the examples will follow.
 ![alt crossed][P-0221-aa]    
 > [WI E6][wi-E6]
 
-### Bias Ground with a row in between
-The Bias and the row in between are connected diagonaly in the matrix-scheme. A horizontal connection also works.      
+### Bias Ground with a diagonal in between
+The Bias and the diagonal in between are connected diagonaly in the matrix-scheme. A horizontal connection also works.      
 ![row between][P-0221-vg]  
 > [one][G-0221-vg]
 
-### Bias Ground crossed and a row in between   
+### Bias Ground crossed and a diagonal in between   
 ![row & crossed][P-0221-av]    
 > [two][G-0221-av]
 
