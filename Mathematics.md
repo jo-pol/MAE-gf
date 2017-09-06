@@ -21,7 +21,7 @@ Brick:
 `5 & (for i=1 to N: 6) & - & (for i=1 to N: 2)               `                   
 
 ### To big matrix
-We whished to find the matrix-scheme for the crossed-snowflake-in-a-square. Just putting te snowflake in the square won't work, since the snowflake requires 11 "nodes", whereas the square has 9 nodes inside. So, the square has to be enlarged. The following matrix follows the rules for matrices, but the tiles are too big for Groundforge to handle.       
+We wished to find the matrix-scheme for the crossed-snowflake-in-a-square. Just putting te snowflake in the square won't work, since the snowflake requires 11 "nodes", whereas the square has 9 nodes inside. So, the square has to be enlarged. The following matrix follows the rules for matrices, but the tiles are too big for Groundforge to handle.       
 ![to big][to-big-sn]
 
 
