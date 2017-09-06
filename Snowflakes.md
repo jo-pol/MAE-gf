@@ -1,7 +1,5 @@
 # more to follow
 
-Some fancy examples, collected on this page. Names will be looked after later.    
-
 ### Contents
 * [Squared snowflake](#squared-snowflake)
 
