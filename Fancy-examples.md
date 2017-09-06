@@ -8,7 +8,7 @@ Some fancy examples, collected on this page. Names will be looked after later.
 * [Squared pagoda](#squared-pagoda)       
    
 **Others**
-* [Om & Om](#om--om)
+* [Om & Om (alternate stitch)](#om--om)
 * [Short bias](#short-bias)
 * [Plaits and Roses](#plaits-and-roses)
 
@@ -28,8 +28,9 @@ See page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-
 See page [Pagoda's](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds#pagoda-in-a-square). 
 
 ### Om & Om
-In the Tesselace index a scheme for _Om & Om_ can be found (the very first one). However, as the tiling-parameter is set to `Brick` the stitches can not be chosen to generate the Om & Om. Setting the tiling to `Checkers` does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (even with an odd number of collumns).
-> [o&o 11][oo-11], [o&o 12a][oo-12a], [o&o 12b][oo-12b]
+In the Tesselace index a scheme for _Om & Om_ can be found (the very first one). However, as the tiling-parameter is set to `Brick` the stitches can not be chosen to generate the Om & Om. Setting the tiling to `Checkers` does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).            
+![om & om][pic-oeno]       
+> [o&o 11][oo-11], [o&o 12][oo-12], [o&o 12a][oo-12a]
 
 ### Short Bias
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.        
@@ -50,6 +51,7 @@ The traditional rose ground units separated with plaits. Please note: the plaits
 [pic-0306-OIv]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200301%20wt.png
 [pic-0228-OG]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200228-OG.png
 [pic-0228-OGy]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200228%20OGy.png
+[pic-oeno]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-oeno-11.png
 
 [foto-0228-OGy]: https://github.com/MAETempels/MAE-gf/blob/master/photos/gf-0228-foto.jpg
 
@@ -61,4 +63,4 @@ The traditional rose ground units separated with plaits. Please note: the plaits
 
 [oo-11]: https://d-bl.github.io/GroundForge/index.html?m=88%0A11%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct
 [oo-12a]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dct%20C1%3Dct
-[oo-12b]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%0A888%0A111%0A888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct%20C3%3Dctct%20A4%3Dctct%20B5%3Dctct%20C6%3Dctct
+[oo-12]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%0A888%0A111%0A888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct%20C3%3Dctct%20A4%3Dctct%20B5%3Dctct%20C6%3Dctct
