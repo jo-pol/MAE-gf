@@ -30,7 +30,7 @@ See page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-
 See page [Pagoda's](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds#pagoda-in-a-square). 
 
 ### Om & Om
-In the Tesselace index a scheme for _Om & Om_ can be found (the very first one). However, as the tiling-parameter is set to `Brick` the stitches can not be chosen to generate the Om & Om. Setting the tiling to `Checkers` does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter.
+In the Tesselace index a scheme for _Om & Om_ can be found (the very first one). However, as the tiling-parameter is set to `Brick` the stitches can not be chosen to generate the Om & Om. Setting the tiling to `Checkers` does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (even with an odd number of collumns).
 > [o&o 11][oo-11], [o&o 12a][oo-12a], [o&o 12b][oo-12b]
 
 ### Short Bias
