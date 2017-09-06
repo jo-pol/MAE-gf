@@ -19,7 +19,7 @@ Please note: when making the actual lace, it will make a big difference if the u
 > [Star][G-0112]
 
 ### Squared Snowflake
-See page [Snowflakes](https://github.com/MAETempels/MAE-gf/wiki/Snowflakes/_edit#squared-snowflake)
+See page [Snowflakes](https://github.com/MAETempels/MAE-gf/wiki/Snowflakes/#squared-snowflake)
 
 ### Squared Spider
 See page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square).
