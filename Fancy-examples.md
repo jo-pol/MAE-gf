@@ -8,6 +8,7 @@ Some fancy examples, collected on this page for now. Names will be looked after 
 * [Squared pagoda](#squared-pagoda)       
    
 **Others**
+* [Om & Om](#om--om)
 * [Short bias](#short-bias)
 * [Plaits and Roses](#plaits-and-roses)
 
@@ -27,6 +28,10 @@ See page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-
 
 ### Squared pagoda
 See page [Pagoda's](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds#pagoda-in-a-square). 
+
+### Om & Om
+In the Tesselace index a scheme for _Om & Om_ can be found (the very first one). However, as the tiling-parameter is set to `Brick` the stitches can not be chosen to generate the Om & Om. Setting the tiling to `Checkers` does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter.
+> [o&o 11][oo-11], [o&o 12a][oo-12a], [o&o 12b][oo-12b]
 
 ### Short Bias
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.        
@@ -55,3 +60,7 @@ The traditional rose ground units separated with plaits. Please note: the plaits
 [G-0306]: https://d-bl.github.io/GroundForge/index.html?m=5--5--%0A-C632B%0A566-22%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctt%20E1%3Dct%20A1%3Dct%20F2%3Dct%20B3%3Dctl%20D3%3Dctr%20F3%3Dctct
 [G-0228-OG]: https://d-bl.github.io/GroundForge/index.html?m=86-5%0A4-5-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20C1%3Dtct
 [G-0228-OGy]: https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dtct%20C1%3Dtct
+
+[oo-11]: https://d-bl.github.io/GroundForge/index.html?m=88%0A11%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct
+[oo-12a]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dct%20C1%3Dct
+[oo-12b]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%0A888%0A111%0A888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct%20C3%3Dctct%20A4%3Dctct%20B5%3Dctct%20C6%3Dctct
