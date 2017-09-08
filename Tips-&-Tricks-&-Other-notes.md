@@ -10,17 +10,21 @@ Example: The picture shows the working-scheme's of one unit of _Slavic rose grou
 ![rose-cinq][pic-r5g]    
 
 ### Stitches
-Names of stitches used in this wiki:
+![colours][pic-kleur]      
+Stitches used in the examples in this wiki:
 * Cross only. In working scheme's coloured in grey.    
 * Half stitch = (twist if not already done), cross, twist. Coloured green.       
 * Cloth stitch = cross, twist, cross. Coloured purple.        
 * Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured red.   
 * Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured blue.
+* Turning stitch = cross, twist, twist, cross (twist, twist). Coloured brown.
 
-Sometimes, onorthodox stitches are used, like `Cross only`. (Examples will be in this wiki.)
+Sometimes, onorthodox stitches are used, like `Cross only` or `crcllcrc`, as in the [sunny stitch][ex-sun].      
     
 ![pic-tct]Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. In this wiki, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example. 
-Suppose, we wish to work on the example above. The whole stitch & twist in the middle can be specified several ways. We prefer to use `ctc B1=tctct`, see [here][ex-tctct]. However, doing so, Groundforge colours this stitch in black in the pair-diagram (the left one). If we wish to see a red stitch, we have to use `ctc A1=ctcr A2=ctcr B1=ctct`, see [here][ex-ctct].
+Suppose, we wish to work on the example above. The whole stitch & twist in the middle can be specified several ways. We prefer to use `ctc B1=tctct`, see [here][ex-tctct]. However, doing so, Groundforge colours this stitch in black in the pair-diagram (the left one). If we wish to see a red stitch, we have to use `ctc A1=ctcr A2=ctcr B1=ctct`, see [here][ex-ctct].    
+
+Groundforge accepts only stitch-instructions with at least one cross. The instruction `A1=t` will be translated into `A1=ct`.
 
 We have tried `ctctclllllctctc` as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 
@@ -37,6 +41,9 @@ The examples provided focus on just elements of the grounds. No attention is pai
 
 [pic-tct]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-tctct.png
 [pic-r5g]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-slaaf-vierge.png
+[pic-kleur]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-kleurtjes.png
+
+[ex-sun]: https://github.com/MAETempels/MAE-gf/wiki/Marian's-patterns#sunny-stitch
 
 [ex-tctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct
 [ex-ctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr
