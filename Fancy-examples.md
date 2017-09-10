@@ -34,8 +34,7 @@ In the Tesselace index a scheme for _Om & Om_ can be found (the very first one).
 
 ### Short Bias
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.        
-![short bias foto][foto-0228-OGy]      
-![short bias 1][pic-0228-OG] ![short bias 2][pic-0228-OGy]
+![short bias foto][foto-0228-OGy] ![short bias 1][pic-0228-OG] ![short bias 2][pic-0228-OGy]
 > [left][G-0228-OG], [right][G-0228-OGy]
 
 
