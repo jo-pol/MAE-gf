@@ -22,12 +22,12 @@ This stitch I created because I wished to see a little loop at the sides of the 
 > [sunny stitch in plaits][G-0902-f], [sunny stitch in square][G-0902-q]
 
 ### Ants
-![ants][pic-0692]                 
-Ants came to life as a variation of the Slavic ground. The [result][ex-0692] looks like ants. In effect, the threads between the bottom and top position of two units will be _crossed_ four times.      
+![ants][pic-0692] ![ants-foto][foto-0692]                
+Ants came to life as a variation of the Slavic ground. The [result][ex-0692] looks like ants. In effect, the threads between the bottom and top position of two units will be _crossed_ four times. Please note that there are no twitst between the cross only and whole stitch at the pins.           
 
 
 
-
+[foto-0692]: https://github.com/MAETempels/MAE-gf/blob/master/photos/gf-0692-foto.jpg
 
 [pic-ll]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/lacelintje.png
 [pic-0902]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-0902-wt.png
