@@ -23,7 +23,7 @@ This stitch I created because I wished to see a little loop at the sides of the 
 
 ### Ants
 ![ants][pic-0692] ![ants-foto][foto-0692]                
-Ants came to life as a variation of the Slavic ground. The [result][ex-0692] looks like ants. In effect, the threads between the bottom and top position of two units will be _crossed_ four times. Please note that there are no twitst between the cross only and whole stitch at the pins.           
+Ants came to life as a variation of the Slavic ground. The [result][ex-0692] looks like ants. In effect, the threads between the bottom and top position of two units will be _crossed_ four times. Please note that there are no twitst between the cross only and whole stitch at the pins. This [example][ex-0665] shows even better why they are called "ants".             
 
 
 
@@ -37,3 +37,4 @@ Ants came to life as a variation of the Slavic ground. The [result][ex-0692] loo
 [G-0902-f]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=A1%3Dctctc%20C1%3Dctctc%20D2%3Dcrcllcrc%20B2%3Dclcrrclc%20D1%3Dctctctctc%20B1%3Dctctctctc
 [G-0902-q]: https://d-bl.github.io/GroundForge/index.html?m=586-21%0A-48317%0A5-4-7-%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctcttt%20F3%3Dctctc%20F2%3Dctctc%20E1%3Dcrcllcrc%20A1%3Dclcrrclc%20E3%3Dc%20A3%3Dc%20E2%3Dcttt%20A2%3Dcttt
 [ex-0692]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20A1%3Dcctct%20C1%3Dtctcc
+[ex-0665]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20A1%3Dcctct%20C1%3Dtctcc
