@@ -23,7 +23,7 @@ This stitch I created because I wished to see a little loop at the sides of the 
 
 ### Ants
 ![ants][pic-0692] ![ants-foto][foto-0692]                
-Ants came to life as a variation of the Slavic ground. The result looks like ants, see example 1. In effect, the threads between the bottom and top position of two units will be _crossed_ four times. Please note that there are no twitst between the cross only and whole stitch at the pins. Example 2 shows even better why they are called "ants". 
+Ants came to life as a variation of the Slavic ground. The result looks like ants, see example 1. In effect, the threads between the bottom and top position of two units will be _crossed_ four times. Please note that there are no twists between the cross only and whole stitch at the pins. Example 2 shows even better why they are called "ants". 
 > [ant 1][ex-0692], [ant 2][ex-0665], [3 paired crossed star][ex-3cc]                 
 
 
