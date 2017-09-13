@@ -13,7 +13,7 @@
 ![little snowflake][pic-sn-oo]
 > [example][ex-0300]
 
-### Littel Snowflake, crossed
+### Little Snowflake, crossed
 ![little snowflake crossed][pic-sn-cr]
 > [example][ex-0342]
 
