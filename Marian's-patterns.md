@@ -24,7 +24,8 @@ This stitch I created because I wished to see a little loop at the sides of the 
 ### Ants
 ![ants][pic-0692] ![ants-foto][foto-0692]                
 Ants came to life as a variation of the Slavic ground. The result looks like ants, see example 1. In effect, the threads between the bottom and top position of two units will be _crossed_ four times. Please note that there are no twists between the cross only and whole stitch at the pins. Example 2 shows even better why they are called "ants". 
-> [ant 1][ex-0692], [ant 2][ex-0665], [3 paired crossed star][ex-3cc]                 
+> [ant 1][ex-0692], [ant 2][ex-0665], [3 paired crossed star][ex-3cc]   
+          
 
 
 
@@ -33,6 +34,7 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 [pic-ll]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/lacelintje.png
 [pic-0902]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-0902-wt.png
 [pic-0692]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-0692.png
+[pic-joke]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/jp-star.png
 
 [LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
 [G-0902-f]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=A1%3Dctctc%20C1%3Dctctc%20D2%3Dcrcllcrc%20B2%3Dclcrrclc%20D1%3Dctctctctc%20B1%3Dctctctctc
