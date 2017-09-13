@@ -51,6 +51,7 @@ Larger spiders are possible, but it will take Groundforge some time to generate 
 > [4x3 legs][shq3], [4x4 legs][shq4]
 
 ### Binche spiders 
+See also page [Snowflakes](https://github.com/MAETempels/MAE-gf/wiki/Snowflakes).    
 "Bolletje".    
 ![binche spider][pic-bi-boll]
 > [binche spider][wi-g04] (WI G4)
