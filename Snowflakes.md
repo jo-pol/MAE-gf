@@ -1,9 +1,13 @@
 ### Contents
+* [Introduction](#introduction)
 * [Binche snowflake](#binche-snowflake)
 * [Little snowflake](#litte-snowflake)
 * [Little snowflake, crossed](#little-snowflake-crossed)
 * [Squared snowflake](#squared-snowflake)
 * [Snowflakes diagonal](#snowflakes-diagonal)
+
+### Introduction
+On this page several snowflake-grounds are collected.    
 
 ### Binche Snowflake
  picture to follow. For the Binche spiders see page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders)       
