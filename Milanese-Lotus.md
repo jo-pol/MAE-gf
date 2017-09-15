@@ -3,22 +3,26 @@
 * [Lotus notation](#lotus-notation)
 * [Lotus building](#lotus-building)
 * [Lotus examples](#lotus-examples)
+<br>
 
 ### Introduction
-Lotus grounds are usualy used in small braids, 14-18 pairs.        
-![lotus pair dia][lotus_wt]
+<img alt="lotus pair dia" align="right" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%20lotus%20wt.png">
+Lotus grounds are usualy used in small braids, 14-18 pairs.
+<br><br>
 
 ### Lotus notation
-Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and the number of rows in between. See the picture at the top of this article. 
+Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and the number of rows in between. See the picture. 
+<br><br>
 
 ### Lotus building
 The general Lotus scheme looks like the scheme in the picture. Of course, other scheme's are possible.      
 Building bigger lotus is similair to the building of bigger fish, as illustrated on the [_Fish_](https://github.com/MAETempels/MAE-gf/wiki/Milanese-Fish) page.
+<br>
 
 ![lotus generator][lotus_gen]
+<br><br>
 
 ### Lotus examples
-More will follow.       
 [Lotus H2,V2,X-][L22-], [Lotus H2,V2,X0][L220]   
 [Lotus H5,V2,X0][L520]   
 
