@@ -32,7 +32,7 @@ For the complete scheme's we chose to connect the spiders diagonaly. Of course, 
 <img alt="traditional spider" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-sp-trad.png">
 
 Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has to be chosen in the heart of the spider.
-<br><br><br><br><br>
+<br><br><br>
 > [4x2 legs][st2] (WI F2), [4x3 legs][st3] (WI E4), [4x4 legs][st4], [4x5 legs][st5]
 <p><br>  
 
@@ -44,7 +44,7 @@ Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has t
 <img alt="spider with an eye" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-sp-gat.png">
 
 Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: `A5=ctclctc E5=ctcrctc`. 
-<br><br><br><br>
+<br><br>
 > [4x2 legs][sh2], [4x3 legs][sh3], [4x4 legs][sh4]
 <p><br>
  
