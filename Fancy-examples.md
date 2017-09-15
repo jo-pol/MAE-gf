@@ -37,8 +37,8 @@ See page [Pagoda's](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triang
 
 ### Om & Om
 <img alt="om & om" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-oeno-11.png">
-In the Tesselace index a scheme for <i>Om & Om</i> can be found (the very first one).<p>
 
+In the Tesselace index a scheme for <i>Om & Om</i> can be found (the very first one).<br>
 However, as the tiling-parameter is set to `Brick` the stitches can not be chosen to generate the Om & Om. Setting the tiling to `Checkers` does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).
 <br>     
 > [o&o 11][oo-11], [o&o 12][oo-12], [o&o 12a][oo-12a]
