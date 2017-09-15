@@ -44,7 +44,7 @@ Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has t
 <img alt="spider with an eye" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-sp-gat.png">
 
 Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: `A5=ctclctc E5=ctcrctc`. 
-<br><br>
+<br><br><br>
 > [4x2 legs][sh2], [4x3 legs][sh3], [4x4 legs][sh4]
 <p><br>
  
