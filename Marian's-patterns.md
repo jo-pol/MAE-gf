@@ -20,10 +20,10 @@ Clearly, this pattern as such can not be made with Groundforge, however, there i
 
 ### Sunny stitch
 <img alt="sunny stitch" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-0902-wt.png">
-This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch. 
 
+This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch. <br>
 The colour grey indicates `cross only`.
-<br><br><br><br>
+<br><br>
     
 > [sunny stitch in plaits][G-0902-f], [sunny stitch in square][G-0902-q]
 <p><br>
