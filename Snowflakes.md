@@ -5,30 +5,39 @@
 * [Little snowflake, crossed](#little-snowflake-crossed)
 * [Squared snowflake](#squared-snowflake)
 * [Snowflakes diagonal](#snowflakes-diagonal)
+<br>
 
 ### Introduction
-On this page several snowflake-grounds are collected.    
+On this page several snowflake-grounds are collected. 
+<p><br>   
 
 ### Binche Snowflake
- picture to follow. For the Binche spiders see page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders)       
+picture to follow. For the Binche spiders see page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders) 
+<br>      
 > [binche snowflake][ex-sn-bin]
+<p><br>
 
 ### Little Snowflake
 ![little snowflake][pic-sn-oo]
 > [example][ex-0300]
+<p><br>
 
 ### Little Snowflake, crossed
 ![little snowflake crossed][pic-sn-cr]
 > [example][ex-0342]
+<p><br>
 
 ### Squared Snowflake
-The little snowflake can also be put into a square. However, we have not been able (yet) to discover a working matrix-scheme for the crossed snowflake on the right. There is a matrix-scheme, but this is to big. See the article on the [Maths](https://github.com/MAETempels/MAE-gf/wiki/Mathematics#to-big-matrix) page.       
-![snowflake][pic-0306-OIv]   
-> [left][ex-0306], right     
+<img alt="snowflake squared" align="right" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200301%20wt.png">
+
+The little snowflake can also be put into a square. However, we have not been able (yet) to discover a working matrix-scheme for the crossed snowflake on the right. There is a matrix-scheme, but this is to big. See the article on the [Maths](https://github.com/MAETempels/MAE-gf/wiki/Mathematics#to-big-matrix) page. <br>
+> [left][ex-0306], right 
+<p><br>   
 
 ### Snowflakes diagonal
 ![diagonal snowflakes][pic-sn-dia]
 > [example][ex-sn-dia]
+<p><br>
 
 
 [pic-fusion]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-fusion.png
