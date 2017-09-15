@@ -1,5 +1,3 @@
-under construction
-
 ### Contents
 * [Introduction](#introduction)
 * [Traditional Bias Ground](#traditional-bias-ground)
@@ -7,33 +5,42 @@ under construction
 * [Bias Ground crossed differently](#bias-ground-crossed-differently)
 * [Bias Ground with a diagonal in between](#bias-ground-with-a-diagonal-in-between)
 * [Bias Ground crossed and a diagonal in between](#bias-ground-crossed-and-a-diagonal-in-between)
+<br>
 
 ### Introduction
-![pairdiagram][p-0221-wt]      
-The traditional Bias Ground, or Ornamental Ground, is made as in above pair-diagram. In this article we show different grounds based on this diagonal.   
-Other nice grounds can be obtained by using one unit only. See [_Fancy examples_](https://github.com/MAETempels/MAE-gf/wiki/Fancy%20examples#short-bias).   
-Better names for the examples will follow.   
+<img align="right" alt="biasground" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200221%20wt.png">
+The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. In this article we show different grounds based on this diagonal.<br>
+
+Other nice grounds can be obtained by using one unit only. See [_Fancy examples_](https://github.com/MAETempels/MAE-gf/wiki/Fancy%20examples#short-bias).<br>
+Better names for the examples will follow.
+<br><br>
 
 ### Traditional Bias Ground
-![traditional][P-0221-tr]  
+![traditional][P-0221-tr]
 > [traditional][G-0221-tr], [cloth][G-0228OD]
+<p><br>
 
 ###  Bias Ground crossed rose style
-![crossed][P-0221-at]   
+![crossed][P-0221-at]
 > [WI D6][wi-D6], [WI F4][wi-F4]
+<p><br>
 
 ### Bias Ground crossed differently
-![alt crossed][P-0221-aa]    
+![alt crossed][P-0221-aa]
 > [WI E6][wi-E6]
+<p><br>
 
 ### Bias Ground with a diagonal in between
-The Bias and the diagonal in between are connected diagonaly in the matrix-scheme. A horizontal connection also works.      
-![row between][P-0221-vg]  
-> [one][G-0221-vg]
+The Bias and the diagonal in between are connected diagonaly in the matrix-scheme. A horizontal connection also works.
+<br><br> 
+![row between][P-0221-vg]
+> [example][G-0221-vg]
+<p><br>
 
 ### Bias Ground crossed and a diagonal in between   
-![row & crossed][P-0221-av]    
-> [two][G-0221-av]
+![row & crossed][P-0221-av]
+> [example][G-0221-av]
+<p><br>
 
 
 
