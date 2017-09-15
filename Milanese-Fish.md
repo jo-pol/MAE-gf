@@ -3,37 +3,42 @@
 * [Fish notation](#fish-notation)
 * [Fish building](#fish-building)
 * [Fish examples](#fish-examples)
+<br>
 
 ### Introduction
-Fish grounds are usualy used in small braids. Milanese braids typically need 14-18 pairs of bobbins.     
-The grounds consists of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows define whether the fish will be in straight vertical lines, or in alternating positions.        
-If the tail is made with pairs not from the same fish, the ground is called [_Lotus_](https://github.com/MAETempels/MAE-gf/wiki/Milanese-Lotus). 
+Fish grounds are usualy used in small braids. Milanese braids typically need 14-18 pairs of bobbins. <br>
+The grounds consists of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows define whether the fish will be in straight vertical lines, or in alternating positions. <br>
+If the tail is made with pairs not from the same fish, the ground is called [_Lotus_](https://github.com/MAETempels/MAE-gf/wiki/Milanese-Lotus). <br>
     
 ![fish pair dia][vis_wt]
-
-Broader fish can be made, e.g. with four cloth stitches. In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported. In Groundforge these fish can be obtained using the second or even third level diagram. (example follows) 
+<br>
+Broader fish can be made, e.g. with four cloth stitches. In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported. In Groundforge these fish can be obtained using the second or even third level diagram. (example follows)
+<br><br>
 
 ### Fish notation
 Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and the in between rows the _waves_.
-Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture at the top of this article. 
+Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture at the top of this article.
+<br><br>
 
 ### Fish building.
-The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. Please note that an even or odd number of "waves" dictate if a _brick_-matrix is possible.      
-
+The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. Please note that an even or odd number of "waves" dictate if a _brick_-matrix is possible.
+<br><br>
 ![fish generator][vis_gen]
+<br>
      
-Building bigger fish is illustrated in the following picture. Please note the change of direction of the weavers.      
+Building bigger fish is illustrated in the following picture. Please note the change of direction of the weavers. 
+<br>
 ![fish builder][vis_bouw]
+<br><br>
 
 ### Fish examples
-More will follow
 > WI E14   
 > [Fish B1,S2,W-][F12-]   
 > [Fish B2,S2,W-][F22-] , [Fish B2,S2,W0][F220] (WI G14), [Fish B2,S2,W2][F222] (WI G16)     
 > [Fish B3,S2,W2][F322]               
 > [Fish B4,S2,W-][F42-] (WI D16), [Fish B4,S2,W1][F421] (WI E16), [Fish B4,S2,W2][F422] (WI F16)      
 > [Fish B5,S2,W-][F52-]    
-
+<p><br>
 
 [F12-]: https://d-bl.github.io/GroundForge/index.html?m=8%0A1%3Bchecker%3B16%3B16%3B0%3B0&s1=A1%3Dctc%20A2%3Dctcr
 [F120]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dctclll%20A1%3Dctct
