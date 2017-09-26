@@ -21,11 +21,11 @@ Most of the patterns also have a scheme in the TesseLace index. Some, as the spi
 ### Diagrams
 <img align="right" alt="several types of drawings" src="https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20picts.png">
 
-In this wiki several types of diagrams are used, as illustrated in the picture. On the left is a drawing of a _pair-diagram_ or _working-scheme_. Pins, pinpositions and colourcode are given as needed for the actual lace. In the middle the ground is drawn schematic, to given an impression. Pins and colourcode may or may not be drawn. The pinpositions are drawn as needed for the actual lace. On the right the _matrix-scheme_ that Groundforge understands.<br> 
+In this wiki several types of diagrams are used, as illustrated in the picture. On the left is a drawing of a _pair-diagram_ or _working-scheme_. Pins, pinpositions and colourcode are given as needed for the actual lace. In the middle the ground is drawn schematic, to given an impression. Pins and colourcode may or may not be drawn. The pinpositions are drawn as required for the actual lace. On the right the _matrix-scheme_ that Groundforge understands.<br> 
 Several grounds have more than one working matrix-scheme, as is explained in de Groundforge-userguide. In the articles the name _scheme_ or _diagram_ will be used for all types of the drawings.
-
+<br><br>
 The example is a variation on a 's Gravenmoers snowflake ground. See [here][ex-0306] how the thread-diagram looks like.
-<br>       
+<br><br>
 The pictures in this wiki are mostly made with Knipling (TM).
 <br><br>    
 
