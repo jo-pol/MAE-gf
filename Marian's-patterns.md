@@ -31,7 +31,8 @@ The colour grey indicates `cross only`.
 ### Ants
 <img alt="ants" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-0692.png">
 <img alt="ants-foto" align="right" src="https://github.com/MAETempels/MAE-gf/blob/master/photos/gf-0692-foto.jpg">
-Ants came to life as a variation of the Slavic ground. The result looks like ants, see example 1. In effect, the threads between the bottom and top position of two units will be <i>crossed</i> four times. Please note that there are no twists between the cross only and whole stitch at the pins. Example 2 shows even better why they are called "ants".
+
+Ants came to life as a variation of the Slavic ground. The result looks like ants, see example 2. In effect, the threads between the bottom and top position of two units will be _crossed_ four times. Please note that there are no twists between the cross only and whole stitch at the pins.
 <br> <br>
 
 > [ant 1][ex-0692], [ant 2][ex-0665], [3 paired crossed star][ex-3cc]         
