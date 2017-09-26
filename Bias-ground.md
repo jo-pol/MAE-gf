@@ -9,6 +9,7 @@
 
 ### Introduction
 <img align="right" alt="biasground" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200221%20wt.png">
+
 The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. In this article we show different grounds based on this diagonal.<br>
 
 Other nice grounds can be obtained by using one unit only. See [_Fancy examples_](https://github.com/MAETempels/MAE-gf/wiki/Fancy%20examples#short-bias).<br>
