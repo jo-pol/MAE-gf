@@ -1,3 +1,4 @@
+# **MENU**
 [**Home**](https://github.com/MAETempels/MAE-gf/wiki) <br>
 [**Tips, tricks & other notes**](https://github.com/MAETempels/MAE-gf/wiki/Tips-&-Tricks-&-Other-notes) <br>
 ### Examples
