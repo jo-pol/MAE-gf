@@ -1,7 +1,7 @@
 ### Contents
 * [Introduction](#introduction)
 * [Binche snowflake](#binche-snowflake)
-* [Little snowflake](#litte-snowflake)
+* [Little snowflake](#little-snowflake)
 * [Little snowflake, crossed](#little-snowflake-crossed)
 * [Squared snowflake](#squared-snowflake)
 * [Snowflakes diagonal](#snowflakes-diagonal)
