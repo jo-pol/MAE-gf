@@ -16,12 +16,11 @@ Example: The picture shows the working-scheme's of one unit of _Slavic rose grou
 ### Stitches
 ![colours][pic-kleur]      
 Stitches used in the examples in this wiki:
-* Cross only. In working scheme's coloured in grey.    
-* Half stitch = (twist if not already done), cross, twist. Coloured green.       
-* Cloth stitch = cross, twist, cross. Coloured purple.        
-* Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured red.   
-* Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured blue.
-* Turning stitch = cross, twist, twist, cross (twist, twist). Coloured brown.
+* Cross only. In working scheme's coloured in grey.<br>
+* Half stitch = (twist if not already done), cross, twist. Coloured green.<br>
+* Cloth stitch = cross, twist, cross. Coloured purple.<br>
+* Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured red.<br>
+* Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured blue.<br>
 <br>
 
 Sometimes, onorthodox stitches are used, like `Cross only` or `crcllcrc`, as in the [sunny stitch][ex-sun]. <br>
