@@ -16,9 +16,10 @@ Some fancy examples, collected on this page. Names will be looked after later.
 
 ### Squared Rose ground
 <img alt="torchon-flemish" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-tor-vl.png">
+
 By putting the traditional rose ground unit in a square, little stars can be made.<br>
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.
-<br><br>
+<br><br><br>
 
 > [Star][G-0112]
 <p><br>
