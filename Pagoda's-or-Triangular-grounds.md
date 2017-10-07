@@ -13,7 +13,7 @@
 <img alt="pg unit" align="right" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-unit.png">
 
 In this article we show several placings of one unit of the _Pagoda_ or _Triangular_ ground. One unit is shown in 
-the picture.<br>
+the picture on the right.<br>
 Please note that some of the examples are mirrored. 
 <p><br>
 
