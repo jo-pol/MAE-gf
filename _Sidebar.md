@@ -1,8 +1,9 @@
 # **MENU**
 [**Home**](https://github.com/MAETempels/MAE-gf/wiki) <br>
+[**New site**](https://maetempels.github.io/MAE-gf) <br>
 [**Tips, Tricks & Other notes**](https://github.com/MAETempels/MAE-gf/wiki/Tips-&-Tricks-&-Other-notes) <br>
 ### Examples
-[**Bias grounds**](https://github.com/MAETempels/MAE-gf/wiki/Bias-grounds) <br>
+[**Bias grounds**](https://maetempels.github.io/MAE-gf/docs/bias) <br>
 [**Snowflakes**](https://github.com/MAETempels/MAE-gf/wiki/Snowflakes) <br>
 [**Spiders**](https://github.com/MAETempels/MAE-gf/wiki/Spiders) <br>
 [**Pagoda's or Triangular grounds**](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds) <br>
