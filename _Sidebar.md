@@ -1,7 +1,7 @@
 # **MENU**
 [**Home**](https://github.com/MAETempels/MAE-gf/wiki) <br>
 [**New site**](https://maetempels.github.io/MAE-gf) <br>
-[**Tips, Tricks & Other notes**](https://github.com/MAETempels/MAE-gf/wiki/Tips-&-Tricks-&-Other-notes) <br>
+[**Tips, Tricks & Other notes**](https://maetempels.github.io/MAE-gf/docs/tricks) <br>
 ### Examples
 [**Bias grounds**](https://maetempels.github.io/MAE-gf/docs/bias) <br>
 [**Snowflakes**](https://github.com/MAETempels/MAE-gf/wiki/Snowflakes) <br>
