@@ -19,7 +19,7 @@ Stitches used in the examples in this wiki:
 * Cross only. In working scheme's coloured in grey.<br>
 * Half stitch = (twist if not already done), cross, twist. Coloured green.<br>
 * Cloth stitch = cross, twist, cross. Coloured purple.<br>
-* Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured <font style="color:red:">red</font>.<br>
+* Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured red.<br>
 * Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured blue.<br>
 <br>
 
