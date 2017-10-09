@@ -3,7 +3,7 @@
 * [Binche snowflake](#binche-snowflake)
 * [Little snowflake](#little-snowflake)
 * [Little snowflake, crossed](#little-snowflake-crossed)
-* [Squared snowflake](#squared-snowflake)
+* [Snowflake in a square](#snowflake-in-a-square)
 * [Snowflakes diagonal](#snowflakes-diagonal)
 <br>
 
@@ -27,7 +27,7 @@ picture to follow. For the Binche spiders see page [Spiders](https://github.com/
 > [example][ex-0342]
 <p><br>
 
-### Squared Snowflake
+### Snowflake in a square
 <img alt="snowflake squared" align="right" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200301%20wt.png">
 
 The little snowflake can also be put into a square. However, we have not been able (yet) to discover a working matrix-scheme for the crossed snowflake on the right. There is a matrix-scheme, but this is to big. See the article on the [Maths](https://github.com/MAETempels/MAE-gf/wiki/Mathematics#to-big-matrix) page. <br>
