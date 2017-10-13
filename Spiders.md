@@ -1,6 +1,7 @@
 # Spiders   
 
 ### Contents
+
 - [Introduction](#introduction)
 - [Building Spiders](#building-spiders) 
 - [Traditional spiders](#traditional-spiders)
@@ -9,71 +10,113 @@
 - [Spiders in a square](#spiders-in-a-square)
 - [Spiders with an eye, in a square](#spiders-with-an-eye-in-a-square)
 - [Binche spiders](#binche-spiders)
-<br>
+
+
      
 ### Introduction
-On this page we show (via links) examples of matrices for grounds with all spiders. <br>
+
+On this page we show (via links) examples of matrices for grounds with all spiders. 
+
 Some of the spiders in these examples only have one twist in their legs. This will be corrected somewhere in the future.
-<p><br>
+
+
+
 
 ### Building Spiders
+
 Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy. In fact, a formula can be made, see the [_Math_](https://github.com/MAETempels/MAE-gf/wiki/Mathematics#spider-formulas) page.
-<br>   
-Traditional spiders looks like this: <br>
+
+   
+Traditional spiders looks like this: 
+
 ![spider generator trad][pic-gen]    
-Spiders with an eye look like this: <br>
+Spiders with an eye look like this: 
+
 ![spider generator eye][pic-gon]
-<br>
+
+
 
 For the complete scheme's we chose to connect the spiders diagonaly. Of course, connecting with a horizontal line will also work. For the spiders in a square, the connection between spider and square has to be horizontal.
-<p><br>
+
+
+
 
 ### Traditional spiders
+
 <img alt="traditional spider" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-sp-trad.png">
 
 Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has to be chosen in the heart of the spider.
-<br><br><br>
+
+
+
+
 > [4x2 legs][st2] (WI F2), [4x3 legs][st3] (WI E4), [4x4 legs][st4], [4x5 legs][st5]
-<p><br>  
+
+
+  
 
 ### Stacked spiders
+
 [Another][sa1] ground can be obtained using the corresponding `checkers-matrix`, but set the tiling parameter to `brick`.
-<p><br>
+
+
+
     
 ### Spiders with an eye
+
 <img alt="spider with an eye" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-sp-gat.png">
 
 Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: `A5=ctclctc E5=ctcrctc`. 
-<br><br><br>
+
+
+
+
 > [4x2 legs][sh2], [4x3 legs][sh3], [4x4 legs][sh4]
-<p><br>
+
+
+
  
 ### Spiders in a square
+
 <img alt="spider in square" align="right" src="https://github.com/MAETempels/mae-gf/blob/master/images_wt/gf%20spin%204s%20wt.png">
 
 Ground _WI G2_ has the following working scheme:      
-It consists of a 3 legged spider with a ring in whole stitch and twist, making it a four legged spider. This spider is embedded in a square. Several of these squares are connected. <br>
-Larger spiders are possible, but it will take Groundforge some time to generate te pictures. <br>
+It consists of a 3 legged spider with a ring in whole stitch and twist, making it a four legged spider. This spider is embedded in a square. Several of these squares are connected. 
+
+Larger spiders are possible, but it will take Groundforge some time to generate te pictures. 
+
 > [4x2 legs][sq2], [4x3 legs][sq3] (WI H2), [4x4 legs][sq4] (WI G2), [4x5 legs][sq5]
-<p><br>
+
+
+
        
 ### Spiders with an eye in a square 
+
 > [4x3 legs][shq3], [4x4 legs][shq4]
-<p><br>
+
+
+
 
 ### Binche spiders 
-See also page [Snowflakes](https://github.com/MAETempels/MAE-gf/wiki/Snowflakes).
-<br>
 
-**"Bolletje"** <br>
+See also page [Snowflakes](https://github.com/MAETempels/MAE-gf/wiki/Snowflakes).
+
+
+
+**"Bolletje"** 
+
 ![binche spider][pic-bi-boll]
 > [binche spider][wi-g04] (WI G4)
-<p>
 
-**Traditional spider, on a Binche pricking** <br> 
+
+
+**Traditional spider, on a Binche pricking** 
+ 
 ![binche small spider][pic-bi-spin]    
 > [traditional spider, binche style][wi-e02] (WI E2)
-<p><br>
+
+
+
 
 
 

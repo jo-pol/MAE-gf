@@ -1,4 +1,5 @@
 ### Contents
+
 * [Introduction](#introduction)
 * [Building Pagoda's](#building-pagodas)
 * [Traditional Pagoda's](#traditional-pagodas)
@@ -7,62 +8,97 @@
 * [Pagoda's facing](#pagodas-facing)
 * [Stacked pagoda's](#stacked-pagodas)
 * [Pagoda in a square](#pagoda-in-a-square)
-<br>
+
+
 
 ### Introduction
+
 <img alt="pg unit" align="right" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-unit.png">
 
 In this article we show several placings of one unit of the _Pagoda_ or _Triangular_ ground. One unit is shown in 
-the picture on the right.<br>
+the picture on the right.
+
 Please note that some of the examples are mirrored. 
-<p><br>
+
+
+
 
 ### Building Pagoda's
-Bigger pagoda's can be build much in the same way as building bigger fish. <br>
-The coloured dots indicate what goes where when translating the working scheme into a matrix. The black lines indicate one unit, the grey lines show where the other units connect. <br>
+
+Bigger pagoda's can be build much in the same way as building bigger fish. 
+
+The coloured dots indicate what goes where when translating the working scheme into a matrix. The black lines indicate one unit, the grey lines show where the other units connect. 
+
 ![building pagoda's][build pagoda]
-<br>
+
+
 
 <img alt="alt unit" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images/gf-pg-uni2.png"> 
 
 The unit on the left looks more like the working-scheme. It works nice as a building block for the traditional pagoda, however, the matrix-scheme's for the other pagoda examples are harder to achieve. 
-<p><br><br><br>
+
+
+
+
+
 
 ### Traditional pagoda's
+
 <img alt="trad pg" align="right" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-trad.png">
 
-Please note: traditionally the pagoda-ground uses a weaver, that returns round the pin with two twists at the pointy bit. The example looked better not turning. <br>
+Please note: traditionally the pagoda-ground uses a weaver, that returns round the pin with two twists at the pointy bit. The example looked better not turning. 
+
 > [traditional][ex-trad] 
-<p><br> 
+
+
+ 
 
 ### Bigger pagoda's
+
 <img alt="bigger pg" align="right" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-bigg.png">
 
-The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme. <br>        
+The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme. 
+        
 > [bigger pagoda][ex-bigg]
-<p><br>
+
+
+
 
 ### Pagoda's kissing
-![pg kissing][pg-kiss] <br>
+
+![pg kissing][pg-kiss] 
+
 > [kissing][ex-kiss] 
-<p><br>
+
+
+
 
 ### Pagoda's facing
-![pg facing][pg-face] <br>
+
+![pg facing][pg-face] 
+
 > [facing][ex-face]
-<p>              
+
+              
 (A self repeating scheme, nice.)
-<p><br>
+
+
+
 
 ### Stacked pagoda's
+
 ![pg stacked][pg-stck]
 > [stacked][ex-stck]
-<p><br>
+
+
+
          
 ### Pagoda in a square
+
 <img alt="pg in square" align="right" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-pg-sqre.png">
 
-The units can be placed all facing in the same direction, or alternating. <br>
+The units can be placed all facing in the same direction, or alternating. 
+
 > [square][ex-sqre]
 
 
