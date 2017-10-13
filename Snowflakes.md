@@ -29,6 +29,7 @@ picture to follow. For the Binche spiders see page [Spiders](Spiders)
 ### Little Snowflake
 
 ![little snowflake][pic-sn-oo]
+
 > [example][ex-0300]
 
 
@@ -37,6 +38,7 @@ picture to follow. For the Binche spiders see page [Spiders](Spiders)
 ### Little Snowflake, crossed
 
 ![little snowflake crossed][pic-sn-cr]
+
 > [example][ex-0342]
 
 
@@ -44,7 +46,7 @@ picture to follow. For the Binche spiders see page [Spiders](Spiders)
 
 ### Snowflake in a square
 
-<img alt="snowflake squared" align="right" src="images_wt/gf%200301%20wt.png">
+<img alt="snowflake squared" align="right" src="images_wt/gf%200301%20wt.png"/>
 
 The little snowflake can also be put into a square. However, we have not been able (yet) to discover a working matrix-scheme for the crossed snowflake on the right. There is a matrix-scheme, but this is to big. See the article on the [Maths](Mathematics#to-big-matrix) page. 
 
@@ -56,9 +58,10 @@ The little snowflake can also be put into a square. However, we have not been ab
 ### Snowflakes diagonal
 
 ![diagonal snowflakes][pic-sn-dia]
+
 > [example][ex-sn-dia]
 
-
+---
 
 
 

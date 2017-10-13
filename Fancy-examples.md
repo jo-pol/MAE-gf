@@ -19,7 +19,7 @@ Some fancy examples, collected on this page. Names will be looked after later.
 
 ### Squared Rose ground
 
-<img alt="torchon-flemish" align="left" src="images_wt/gf-tor-vl.png">
+<img alt="torchon-flemish" align="left" src="images_wt/gf-tor-vl.png"/>
 
 By putting the traditional rose ground unit in a square, little stars can be made.
 
@@ -55,7 +55,7 @@ See page [Pagoda's](Pagoda's-or-Triangular-grounds#pagoda-in-a-square).
 
 ### Om & Om
 
-<img alt="om & om" align="left" src="images_wt/gf-oeno-11.png">
+<img alt="om & om" align="left" src="images_wt/gf-oeno-11.png"/>
 
 In the Tesselace index a scheme for <i>Om & Om</i> can be found (the very first one).
 
@@ -72,6 +72,7 @@ However, as the tiling-parameter is set to `Brick` the stitches can not be chose
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.
 
 ![short bias foto][foto-0228-OGy] ![short bias 1][pic-0228-OG] ![short bias 2][pic-0228-OGy]
+
 > [left][G-0228-OG], [right][G-0228-OGy]
 
 
@@ -79,18 +80,12 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 
 ### Plaits and Roses
 
-<img alt="fusion" align="left" src="images_wt/gf-fusion.png">
+<img alt="fusion" align="left" src="images_wt/gf-fusion.png"/>
 The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits. The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake.
-
-
-
-
-
 
 > [Snowflake][G-0342]  
 
-
-
+---
 
 
 [pic-tor-flem]: images_wt/gf-tor-vl.png

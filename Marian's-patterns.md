@@ -31,7 +31,7 @@ Clearly, this pattern as such can not be made with Groundforge, however, there i
 
 ### Sunny stitch
 
-<img alt="sunny stitch" align="left" src="images_wt/gf-0902-wt.png">
+<img alt="sunny stitch" align="left" src="images_wt/gf-0902-wt.png"/>
 
 This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch. 
 
@@ -48,19 +48,18 @@ The colour grey indicates `cross only`.
 
 ### Ants
 
-<img alt="ants" align="left" src="images_wt/gf-0692.png">
-<img alt="ants-foto" align="right" src="photos/gf-0692-foto.jpg">
+<img alt="ants" align="left" src="images_wt/gf-0692.png"/>
+<img alt="ants-foto" align="right" src="photos/gf-0692-foto.jpg"/>
 
 Ants came to life as a variation of the Slavic ground. The result looks like ants, see example 2. In effect, the threads between the bottom and top position of two units will be _crossed_ four times. Please note that there are no twists between the cross only and whole stitch at the pins.
 
- 
 
 
-> [ant 1][ex-0692], [ant 2][ex-0665], [3 paired crossed star][ex-3cc]         
+[ant 1][ex-0692], [ant 2][ex-0665], [3 paired crossed star][ex-3cc]         
  
 ![star][pic-jp-star]      
 
-
+---
 
 
 
