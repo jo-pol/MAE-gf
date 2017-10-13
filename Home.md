@@ -30,7 +30,7 @@ Most of the patterns also have a scheme in the TesseLace index. Some, as the spi
 
 ### Diagrams
 
-<img align="right" alt="several types of drawings" src="https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20picts.png">
+<img align="right" alt="several types of drawings" src="images/gf%20picts.png">
 
 In this wiki several types of diagrams are used, as illustrated in the picture. On the left is a drawing of a _pair-diagram_ or _working-scheme_. Pins, pinpositions and colourcode are given as needed for the actual lace. In the middle the ground is drawn schematic, to given an impression. Pins and colourcode may or may not be drawn. The pinpositions are drawn as required for the actual lace. On the right the _matrix-scheme_ that Groundforge understands.
  
@@ -60,10 +60,10 @@ Some of these links you'll also find in the footer.
 
 
 
-[Groundforge user guide](https://github.com/d-bl/GroundForge/wiki)   
+[Groundforge user guide](https://github.com/d-bl/GroundForge/help)   
 [Whiting index](http://gwydir.demon.co.uk/jo/lace/whiting/index.htm#picindex): Jo Edkins created an annotated online index on the grounds in _A Lace Guide for Makers and Collectors_ by Gertrude Whiting which dates from 1920.     
-[Groundforge Whiting index](https://github.com/d-bl/GroundForge/wiki/Whiting-Index): The same index, with links to Groundforge scheme's and main page.       
-[TesseLace index](https://github.com/d-bl/GroundForge/wiki/TesseLace-Index)
+[Groundforge Whiting index](https://github.com/d-bl/GroundForge/help/Whiting-Index): The same index, with links to Groundforge scheme's and main page.       
+[TesseLace index](https://github.com/d-bl/GroundForge/help/TesseLace-Index)
 
 
 
@@ -77,5 +77,5 @@ All links worked when created. Due to work on the Groundforge coding, there may 
 English is not my native language, so please forgive me any mistakes.
 
 
-[pic-pic]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20picts.png
+[pic-pic]: images/gf%20picts.png
 [ex-0306]: https://d-bl.github.io/GroundForge/index.html?m=--B-C---%0A-E-5-O-K%0A5-----5-%0A-------5%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20F4%3Dctct%20B2%3Dtct%20B4%3Dtctc%20A1%3Dcl%20C1%3Dcr

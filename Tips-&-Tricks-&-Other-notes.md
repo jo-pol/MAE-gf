@@ -12,7 +12,7 @@
 Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds. 
  
 
-<img alt="rose v.s. cinq" align="right" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-slaaf-vierge.png"> 
+<img alt="rose v.s. cinq" align="right" src="images_wt/gf-slaaf-vierge.png"> 
    
 Example: The picture shows the working-scheme's of one unit of _Slavic rose ground_ and one unit of _Fond au cinq trous_. Groundforge gives the same [result][ex-5G].
 
@@ -39,7 +39,7 @@ Stitches used in the examples in this wiki:
 Sometimes, onorthodox stitches are used, like `Cross only` or `crcllcrc`, as in the [sunny stitch][ex-sun]. 
 
     
-<img alt="example" align="right" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-tctct.png">
+<img alt="example" align="right" src="images_wt/gf-tctct.png">
 
 Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. In this wiki, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example. 
 
@@ -74,11 +74,11 @@ The examples provided focus on just elements of the grounds. No attention is pai
 
 
 
-[pic-tct]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-tctct.png
-[pic-r5g]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-slaaf-vierge.png
-[pic-kleur]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-kleurtjes.png
+[pic-tct]: images_wt/gf-tctct.png
+[pic-r5g]: images_wt/gf-slaaf-vierge.png
+[pic-kleur]: images_wt/gf-kleurtjes.png
 
-[ex-sun]: https://github.com/MAETempels/MAE-gf/wiki/Marian's-patterns#sunny-stitch
+[ex-sun]: Marian's-patterns#sunny-stitch
 
 [ex-tctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct
 [ex-ctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr

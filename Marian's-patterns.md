@@ -31,7 +31,7 @@ Clearly, this pattern as such can not be made with Groundforge, however, there i
 
 ### Sunny stitch
 
-<img alt="sunny stitch" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-0902-wt.png">
+<img alt="sunny stitch" align="left" src="images_wt/gf-0902-wt.png">
 
 This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch. 
 
@@ -48,8 +48,8 @@ The colour grey indicates `cross only`.
 
 ### Ants
 
-<img alt="ants" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-0692.png">
-<img alt="ants-foto" align="right" src="https://github.com/MAETempels/MAE-gf/blob/master/photos/gf-0692-foto.jpg">
+<img alt="ants" align="left" src="images_wt/gf-0692.png">
+<img alt="ants-foto" align="right" src="photos/gf-0692-foto.jpg">
 
 Ants came to life as a variation of the Slavic ground. The result looks like ants, see example 2. In effect, the threads between the bottom and top position of two units will be _crossed_ four times. Please note that there are no twists between the cross only and whole stitch at the pins.
 
@@ -65,12 +65,12 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 
 
 
-[foto-0692]: https://github.com/MAETempels/MAE-gf/blob/master/photos/gf-0692-foto.jpg
+[foto-0692]: photos/gf-0692-foto.jpg
 
-[pic-ll]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/lacelintje.png
-[pic-0902]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-0902-wt.png
-[pic-0692]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-0692.png
-[pic-jp-star]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/jp-star.jpg
+[pic-ll]: images_wt/lacelintje.png
+[pic-0902]: images_wt/gf-0902-wt.png
+[pic-0692]: images_wt/gf-0692.png
+[pic-jp-star]: images_wt/jp-star.jpg
 
 [LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
 [G-0902-f]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=A1%3Dctctc%20C1%3Dctctc%20D2%3Dcrcllcrc%20B2%3Dclcrrclc%20D1%3Dctctctctc%20B1%3Dctctctctc

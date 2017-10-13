@@ -13,7 +13,7 @@ Fish grounds are usualy used in small braids. Milanese braids typically need 14-
 
 The grounds consists of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows define whether the fish will be in straight vertical lines, or in alternating positions. 
 
-If the tail is made with pairs not from the same fish, the ground is called [_Lotus_](https://github.com/MAETempels/MAE-gf/wiki/Milanese-Lotus). 
+If the tail is made with pairs not from the same fish, the ground is called [_Lotus_](Milanese-Lotus). 
 
     
 ![fish pair dia][vis_wt]
@@ -77,7 +77,7 @@ Building bigger fish is illustrated in the following picture. Please note the ch
 
 [F52-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A99%0A11%0A88%0A22%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A6%3Dctclll%20A1%3Dctcrrr%20B2%3Dctclll%20A3%3Dctcrrr%20A4%3Dctclll
 
-[vis_wt]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%20vis%20wt.png
-[vis_gen]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20vis%20gen.png
-[vis_bouw]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20vis%20bouw.png
+[vis_wt]: images_wt/gf%20vis%20wt.png
+[vis_gen]: images/gf%20vis%20gen.png
+[vis_bouw]: images/gf%20vis%20bouw.png
 

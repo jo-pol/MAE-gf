@@ -24,7 +24,7 @@ Some of the spiders in these examples only have one twist in their legs. This wi
 
 ### Building Spiders
 
-Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy. In fact, a formula can be made, see the [_Math_](https://github.com/MAETempels/MAE-gf/wiki/Mathematics#spider-formulas) page.
+Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy. In fact, a formula can be made, see the [_Math_](Mathematics#spider-formulas) page.
 
    
 Traditional spiders looks like this: 
@@ -43,7 +43,7 @@ For the complete scheme's we chose to connect the spiders diagonaly. Of course, 
 
 ### Traditional spiders
 
-<img alt="traditional spider" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-sp-trad.png">
+<img alt="traditional spider" align="left" src="images_wt/gf-sp-trad.png">
 
 Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has to be chosen in the heart of the spider.
 
@@ -64,7 +64,7 @@ Please note: for a traditional spider, a stitch like `ctcctc` or `ctctctc` has t
     
 ### Spiders with an eye
 
-<img alt="spider with an eye" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-sp-gat.png">
+<img alt="spider with an eye" align="left" src="images_wt/gf-sp-gat.png">
 
 Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: `A5=ctclctc E5=ctcrctc`. 
 
@@ -78,7 +78,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
  
 ### Spiders in a square
 
-<img alt="spider in square" align="right" src="https://github.com/MAETempels/mae-gf/blob/master/images_wt/gf%20spin%204s%20wt.png">
+<img alt="spider in square" align="right" src="images_wt/gf%20spin%204s%20wt.png">
 
 Ground _WI G2_ has the following working scheme:      
 It consists of a 3 legged spider with a ring in whole stitch and twist, making it a four legged spider. This spider is embedded in a square. Several of these squares are connected. 
@@ -99,7 +99,7 @@ Larger spiders are possible, but it will take Groundforge some time to generate 
 
 ### Binche spiders 
 
-See also page [Snowflakes](https://github.com/MAETempels/MAE-gf/wiki/Snowflakes).
+See also page [Snowflakes](Snowflakes).
 
 
 
@@ -120,15 +120,15 @@ See also page [Snowflakes](https://github.com/MAETempels/MAE-gf/wiki/Snowflakes)
 
 
 
-[pic-ts]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204t.png
-[pic-gen]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%20gen.png
-[pic-gon]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spon%20gn.png
-[pic-sq-wt]: https://github.com/MAETempels/mae-gf/blob/master/images_wt/gf%20spin%204s%20wt.png
-[pic-sq]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf%20spin%204s.png
-[pic-sp-trad]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-sp-trad.png
-[pic-sp-gat]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-sp-gat.png
-[pic-bi-boll]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-bi-boll.png
-[pic-bi-spin]: https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-bi-spin.png
+[pic-ts]: images/gf%20spin%204t.png
+[pic-gen]: images/gf%20spin%20gen.png
+[pic-gon]: images/gf%20spon%20gn.png
+[pic-sq-wt]: images_wt/gf%20spin%204s%20wt.png
+[pic-sq]: images/gf%20spin%204s.png
+[pic-sp-trad]: images_wt/gf-sp-trad.png
+[pic-sp-gat]: images_wt/gf-sp-gat.png
+[pic-bi-boll]: images_wt/gf-bi-boll.png
+[pic-bi-spin]: images_wt/gf-bi-spin.png
 
 
 [st2]: https://d-bl.github.io/GroundForge/index.html?m=-5--%0AB-C-%0A-5-5%0A5-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttctc%20A4%3Dctcll%20D1%3Dctctt%20%20C4%3Dctcrr
