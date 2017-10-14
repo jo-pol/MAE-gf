@@ -6,4 +6,4 @@ layout: default
 Additional wiki pages for Groundforge.
 See [wiki-home].
 
-[wiki-home]: /MAE-gf
+[wiki-home]: https://maetempels.github.io/MAE-gf/
