@@ -6,4 +6,4 @@ env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 install: gem install jekyll html-proofer jekyll-theme-architect jekyll-relative-links
-script: jekyll build && ls _site/* && htmlproofer ./_site --disable-external --url-swap "\/MAE-gf\/:/"
+script: jekyll build && ls _site/* && htmlproofer ./_site --disable-external --assume_extension --url-swap "\/MAE-gf\/:/"
