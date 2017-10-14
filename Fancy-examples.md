@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Some fancy examples, collected on this page. Names will be looked after later.    
 
 ### Contents

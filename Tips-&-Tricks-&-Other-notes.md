@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Contents
 
 * [Ground names](#ground-names)
