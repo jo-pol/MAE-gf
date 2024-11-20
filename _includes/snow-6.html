@@ -6,11 +6,14 @@
 </head>
 
 <form>
-    <label for="no-bounce-blobs">Blobs:</label>
-    <input type="text" id="no-bounce-blobs" name="no-bounce-blobs" width="35" spellcheck="false" onchange="no_bounce_update()" value="tc,rclcrc,clcrcl,ct">
-    start
-    <input type="radio" name="no_bounce_first_blob" value="l" id="no_bounce_first_blob_left" onchange="no_bounce_update()" checked> <label for="no_bounce_first_blob_left">left</label>
-    <input type="radio" name="no_bounce_first_blob" value="r" id="no_bounce_first_blob_right" onchange="no_bounce_update()"> <label for="no_bounce_first_blob_right">right</label>.
+    <label for="no_bounce_blobs">Blobs:</label>
+    <select id="no_bounce_plait">
+        <option value="cr">cr</option>
+        <option value="cl">cl</option>
+        <option value="lc" selected>lc</option>
+        <option value="rc">rc</option>
+    </select>
+    <input value="tc,rclcrc,clcrcl,ct" type="text" id="no_bounce_blobs" width="35" spellcheck="false" onchange="no_bounce_update()">
     <br>
     Variant:
     <br>
@@ -20,20 +23,36 @@
     <br>
     <input type="radio" name="no-bounce-pattern" value="honeycomb" id="no-bounce-pattern-honeycomb" onchange="no_bounce_update()" checked>
     <div style="display: inline-block; vertical-align: top">
-        <label for="no-bounce-pattern-honeycomb">honeycomb, </label>
-        <label for="honeycomb_top_blobs">blobs:</label>
+        <label for="no-bounce-pattern-honeycomb">honeycomb on its tip</label>
         <br>
-        <input type="text" id="honeycomb_top_blobs" name="honeycomb_top_blobs" width="35" spellcheck="false" onchange="no_bounce_update()" value="ctc,ctc,ctc">
-        start
-        <input type="radio" name="honeycomb_top_first_blob" value="l" id="honeycomb_top_first_blob_Left" onchange="no_bounce_update()"> <label for="honeycomb_top_first_blob_Left">left</label>
-        <input type="radio" name="honeycomb_top_first_blob_top" value="r" id="honeycomb_top_first_blob_right" checked onchange="no_bounce_update()"> <label for="honeycomb_top_first_blob_right">right</label>
-        <label for="honeycomb_top_blobs">(top)</label>
+        <select id="honeycomb_top_plait">
+            <option value="cl">cl</option>
+            <option value="cr">cr</option>
+            <option value="lc" selected>lc</option>
+            <option value="rc">rc</option>
+        </select>
+        <input value="cl,ctc,ctc,rc" type="text" id="honeycomb_top_blobs" width="35" spellcheck="false" onchange="no_bounce_update()">
+        <label for="honeycomb_top_blobs">(top|bottom)</label>
         <br>
-        <input type="text" id="honeycomb_side_blobs" name="honeycomb_side_blobs" width="35" spellcheck="false" onchange="no_bounce_update()" value="ctc,ctc,ctc">
-        start
-        <input type="radio" name="honeycomb_side_first_blob" value="l" id="honeycomb_side_first_blob_left" onchange="no_bounce_update()"> <label for="honeycomb_side_first_blob_left">left</label>
-        <input type="radio" name="honeycomb_side_first_blob" value="r" id="honeycomb_side_first_blob_right" checked onchange="no_bounce_update()"> <label for="honeycomb_side_first_blob_right">right</label>
-        <label for="honeycomb_side_blobs">(ne+sw)</label>
+        <select id="honeycomb_ne_plait">
+            <option value="cl">cl</option>
+            <option value="cr">cr</option>
+            <option value="lc" selected>lc</option>
+            <option value="rc">rc</option>
+        </select>
+        <input value="cr,ctc,ctc,lc" type="text" id="honeycomb_ne_blobs" width="35" spellcheck="false" onchange="no_bounce_update()">
+        <label for="honeycomb_ne_blobs">(ne/sw)</label>
+        <button type="button" onclick="flipToNwSe()">flip to nw&bsol;se</button>
+        <br>
+        <select id="honeycomb_nw_plait">
+            <option value="cl">cl</option>
+            <option value="cr">cr</option>
+            <option value="lc" selected>lc</option>
+            <option value="rc">rc</option>
+        </select>
+        <input value="cr,ctc,ctc,lc" type="text" id="honeycomb_nw_blobs" width="35" spellcheck="false" onchange="no_bounce_update()">
+        <label for="honeycomb_nw_blobs">(nw&bsol;se)</label>
+        <button type="button" onclick="flipToNeSw()">flip to ne/sw</button>
     </div>
     <br>
     Footside:
@@ -41,11 +60,11 @@
     <input type="radio" name="no-bounce-footside" value="twist" id="no-bounce-footside-twist" onchange="no_bounce_update()"> <label for="no-bounce-footside-twist">just twist</label>
     <br>
     Swatch size:
-    <label for="no-bounce-patch-width">columns</label>&nbsp;<input type="number" name="no-bounce-patch-height" id="no-bounce-patch-width" min="2" max="10" value="6" onchange="no_bounce_update()" step="2" style="width:3em">
-    <label for="no-bounce-patch-height">rows</label>&nbsp;<input type="number" name="no-bounce-patch-width" id="no-bounce-patch-height" min="3" max="11" value="9" onchange="no_bounce_update()" style="width:3em">
+    <label for="no-bounce-patch-width">columns</label>&nbsp;<input type="number" id="no-bounce-patch-width" min="2" max="10" value="6" onchange="no_bounce_update()" step="2" style="width:3em">
+    <label for="no-bounce-patch-height">rows</label>&nbsp;<input type="number" id="no-bounce-patch-height" min="3" max="11" value="9" onchange="no_bounce_update()" style="width:3em">
     <br>
     <a id="hex_no_bounce_link" href="#" target="_blank">
-        <button type="button">to pairs from threads</button>
+        <button type="button">to pairs from threads page</button>
     </a>
 </form>
-<script>no_bounce_update();</script>
+<script>no_bounce_update()</script>

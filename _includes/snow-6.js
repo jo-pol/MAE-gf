@@ -1,30 +1,53 @@
-function assignToPlait(prefix, blobs) {
-    return blobs.map((item, i) => prefix.replace(/=/g, i + '=') + item).join(",")
+function flipToNwSe() {
+    document.getElementById("honeycomb_nw_plait").value = flip(
+        document.getElementById("honeycomb_ne_plait").value
+    )
+    document.getElementById("honeycomb_nw_blobs").value =
+        getBlobs("honeycomb_ne").map(str => flip(str)).join(",")
+    no_bounce_update()
 }
-
-function spiderTips(prefix, blobs) {
-    // TODO only if trailing and leading twist, more complicated for square
-    const last = blobs[blobs.length - 1]
-    return ',' + prefix.replace(/=/g, `${blobs.length - 1}${last.length - 1}=`) + "ctcttctc"
+function flipToNeSw() {
+    document.getElementById("honeycomb_ne_plait").value = flip(
+        document.getElementById("honeycomb_nw_plait").value
+    )
+    document.getElementById("honeycomb_ne_blobs").value =
+        getBlobs("honeycomb_nw").map(str => flip(str)).join(",")
+    no_bounce_update()
 }
-
+function flip(plait) {
+    return plait.replace(/r/g, "L").replace(/l/g, "R").toLowerCase();
+}
+function getBlobs(idPrefix) {
+    return document.getElementById(idPrefix + "_blobs").value.toLowerCase().split(",");
+}
 function no_bounce_update() {
+
+    function assignToPlait(prefix, blobs) {
+        return blobs.map((item, i) => prefix.replace(/=/g, i + '=') + item).join(",")
+    }
+
+    function spiderTips(prefix, blobs) {
+        // TODO only if trailing and leading twist, more complicated for square
+        const last = blobs[blobs.length - 1]
+        return ',' + prefix.replace(/=/g, `${blobs.length - 1}${last.length - 1}=`) + "ctcttctc"
+    }
+
+    function getPlait(nrOfBlobs, idPrefix) {
+        const start = document.getElementById(idPrefix + "_plait").value.toLowerCase();
+        return start.repeat(nrOfBlobs).substring(0, nrOfBlobs);
+    }
 
     const width = document.getElementById("no-bounce-patch-width").value
     const height = document.getElementById("no-bounce-patch-height").value
     const patternType = document.querySelector('input[name="no-bounce-pattern"]:checked').value
     const footsideType = document.querySelector('input[name="no-bounce-footside"]:checked').value
 
-    const blobs = document.getElementById('no-bounce-blobs').value.toLowerCase().split(",");
-    const nrOfBlobs = blobs.length;
-    const right = document.getElementById("no_bounce_first_blob_right").checked
-    const plait = (right ? "rc" : "lc").repeat(nrOfBlobs).substring(0, nrOfBlobs)
+    const blobs = getBlobs('no_bounce');
+    const plait = getPlait(blobs.length, "no_bounce")
 
     // headside columns:
     const g = 'abcdefghijklmnopqrstuvwxyz'[width * 1 + 2]
     const h = 'abcdefghijklmnopqrstuvwxyz'[width * 1 + 3]
-    const flippedPlait = plait.replace(/r/g, "L").replace(/l/g, "R").toLowerCase()
-    const flippedBlobs = blobs.map(str => str.replace(/r/g, "L").replace(/l/g, "R").toLowerCase())
     let q = "?"
     switch (patternType) {
         case "diamond":
@@ -35,30 +58,38 @@ function no_bounce_update() {
             break
         case "square":
             // flip snowflakes on the returning row
+            const flippedPlait = flip(plait)
+            const flippedBlobs = blobs.map(str => flip(str))
             q += `b1=${plait}&b2=${flippedPlait}&c1=${plait}&c2=${flippedPlait}&${g}1=${plait}&${g}2=${flippedPlait}`
             q += "&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2"
-            droste2 = `&droste2=${assignToPlait(`b1=c1=${g}1=`, blobs)},${assignToPlait(`b2=c2=${g}2=`, flippedBlobs)}`
+            droste2 = `&droste2=`
+            droste2 += `${assignToPlait(`b1=c1=${g}1=`, blobs)},`
+            droste2 += `${assignToPlait(`b2=c2=${g}2=`, flippedBlobs)}`
             droste3 = `&droste3=ctc` + spiderTips(`b1=b2=c1=c2=${g}1==${g}2=`, blobs)
             break
         case "honeycomb":
-            const honeycombTopBlobs = document.getElementById('honeycomb_top_blobs').value.toLowerCase().split(",");
-            const honeycombTopNrOfBlobs = honeycombTopBlobs.length;
-            const honeycombTopRight = document.getElementById("honeycomb_top_first_blob_right").checked
-            const honeycombTopPlait = (honeycombTopRight ? "rc" : "lc").repeat(honeycombTopNrOfBlobs).substring(0, honeycombTopNrOfBlobs)
+            const topBlobs = getBlobs('honeycomb_top')
+            const neBlobs = getBlobs('honeycomb_ne')
+            const nwBlobs = getBlobs('honeycomb_nw')
+            const topPlait = getPlait(topBlobs.length, "honeycomb_top")
+            const nePlait = getPlait(neBlobs.length, "honeycomb_ne")
+            const nwPlait = getPlait(neBlobs.length, "honeycomb_nw")
 
-            const honeycombSidesBlobs = document.getElementById('honeycomb_top_blobs').value.toLowerCase().split(",");
-            const honeycombSidesNrOfBlobs = honeycombSidesBlobs.length;
-            const honeycombSidesRight = document.getElementById("honeycomb_top_first_blob_right").checked
-            const honeycombSidesPlait = (honeycombSidesRight ? "rc" : "lc").repeat(honeycombSidesNrOfBlobs).substring(0, honeycombSidesNrOfBlobs)
-
-            if (width === "right")
-                q += `&d1=${flippedPlait}&f3=${flippedPlait}`
-            else
-                q += `&d1=${plait}&f3=${plait}`
+            q +=  `d1=${plait}&f3=${plait}`
+            q += `&d3=${topPlait}&f1=${topPlait}`
+            q += `&c2=${nePlait}&e4=${nePlait}`
+            q += `&c4=${nwPlait}&e2=${nwPlait}`
             q += `&tile=-5-5,5-5-,-5-5,5-5-,&headside=-c,5-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4`
-            q += `&b1=crc&c2=crc&c4=crc&d3=crc&e2=crc&e4=crc&f1=crc&${g}2=crr`
-            droste2 = `&droste2=${assignToPlait(`d1=${g}2=`, blobs)},${assignToPlait(`f3=${g}2=`, blobs)}`
-            droste3 = '&droste3=ctc' + spiderTips(`d1=${g}2=`, blobs)
+            droste2 = `&droste2=`
+            droste2 += `${assignToPlait(`d1=${g}2=`, blobs)},`
+            droste2 += `${assignToPlait(`f3=${g}2=`, blobs)},`
+            droste2 += `${assignToPlait(`d3=${g}2=`, topBlobs)},`
+            droste2 += `${assignToPlait(`f1=${g}2=`, topBlobs)},`
+            droste2 += `${assignToPlait(`c2=${g}2=`, neBlobs)},`
+            droste2 += `${assignToPlait(`e4=${g}2=`, neBlobs)},`
+            droste2 += `${assignToPlait(`c4=${g}2=`, nwBlobs)},`
+            droste2 += `${assignToPlait(`e2=${g}2=`, nwBlobs)}`
+            droste3 = '&droste3=ctc'
             break
     }
     q += "&footside=-5,b-&headside=-c,5-"
