@@ -7,23 +7,45 @@
 
 <form>
     <label for="no-bounce-blobs">Blobs:</label>
-    <input type="text" id="no-bounce-blobs" name="no-bounce-blobs" width="35" spellcheck="false" onchange="no_bounce_update()" value="rclc,ctc,ctc,crcl">
+    <input type="text" id="no-bounce-blobs" name="no-bounce-blobs" width="35" spellcheck="false" onchange="no_bounce_update()" value="tc,rclcrc,clcrcl,ct">
     start
-    <input type="radio" name="no_bounce_first_blob" value="l" id="no_bounce_first_blobLeft" onchange="no_bounce_update()"> <label for="no_bounce_first_blobLeft">left</label>
-    <input type="radio" name="no_bounce_first_blob" value="r" id="no_bounce_first_blobRight" checked onchange="no_bounce_update()"> <label for="no_bounce_first_blobRight">right</label>.
+    <input type="radio" name="no_bounce_first_blob" value="l" id="no_bounce_first_blob_left" onchange="no_bounce_update()" checked> <label for="no_bounce_first_blob_left">left</label>
+    <input type="radio" name="no_bounce_first_blob" value="r" id="no_bounce_first_blob_right" onchange="no_bounce_update()"> <label for="no_bounce_first_blob_right">right</label>.
     <br>
     Variant:
-    <input type="radio" name="no-bounce-pattern" value="diamond" id="no-bounce-pattern-diamond" onchange="no_bounce_update()" checked> <label for="no-bounce-pattern-diamond">diamond</label>
+    <br>
+    <input type="radio" name="no-bounce-pattern" value="diamond" id="no-bounce-pattern-diamond" onchange="no_bounce_update()" > <label for="no-bounce-pattern-diamond">diamond</label>
+    <br>
     <input type="radio" name="no-bounce-pattern" value="square" id="no-bounce-pattern-square" onchange="no_bounce_update()"> <label for="no-bounce-pattern-square">square</label>
+    <br>
+    <input type="radio" name="no-bounce-pattern" value="honeycomb" id="no-bounce-pattern-honeycomb" onchange="no_bounce_update()" checked>
+    <div style="display: inline-block; vertical-align: top">
+        <label for="no-bounce-pattern-honeycomb">honeycomb, </label>
+        <label for="honeycomb_top_blobs">blobs:</label>
+        <br>
+        <input type="text" id="honeycomb_top_blobs" name="honeycomb_top_blobs" width="35" spellcheck="false" onchange="no_bounce_update()" value="ctc,ctc,ctc">
+        start
+        <input type="radio" name="honeycomb_top_first_blob" value="l" id="honeycomb_top_first_blob_Left" onchange="no_bounce_update()"> <label for="honeycomb_top_first_blob_Left">left</label>
+        <input type="radio" name="honeycomb_top_first_blob_top" value="r" id="honeycomb_top_first_blob_right" checked onchange="no_bounce_update()"> <label for="honeycomb_top_first_blob_right">right</label>
+        <label for="honeycomb_top_blobs">(top)</label>
+        <br>
+        <input type="text" id="honeycomb_side_blobs" name="honeycomb_side_blobs" width="35" spellcheck="false" onchange="no_bounce_update()" value="ctc,ctc,ctc">
+        start
+        <input type="radio" name="honeycomb_side_first_blob" value="l" id="honeycomb_side_first_blob_left" onchange="no_bounce_update()"> <label for="honeycomb_side_first_blob_left">left</label>
+        <input type="radio" name="honeycomb_side_first_blob" value="r" id="honeycomb_side_first_blob_right" checked onchange="no_bounce_update()"> <label for="honeycomb_side_first_blob_right">right</label>
+        <label for="honeycomb_side_blobs">(ne+sw)</label>
+    </div>
     <br>
     Footside:
     <input type="radio" name="no-bounce-footside" value="nothing" id="no-bounce-no-footside-stitch" onchange="no_bounce_update()" checked> <label for="no-bounce-no-footside-stitch">do nothing</label>
     <input type="radio" name="no-bounce-footside" value="twist" id="no-bounce-footside-twist" onchange="no_bounce_update()"> <label for="no-bounce-footside-twist">just twist</label>
     <br>
     Swatch size:
-    <label for="no-bounce-patch-width">columns</label>&nbsp;<input type="number" name="no-bounce-patch-height" id="no-bounce-patch-width" min="2" max="10" value="4" onchange="no_bounce_update()" step="2" style="width:3em">
-    <label for="no-bounce-patch-height">rows</label>&nbsp;<input type="number" name="no-bounce-patch-width" id="no-bounce-patch-height" min="3" max="10" value="6" onchange="no_bounce_update()" style="width:3em">
+    <label for="no-bounce-patch-width">columns</label>&nbsp;<input type="number" name="no-bounce-patch-height" id="no-bounce-patch-width" min="2" max="10" value="6" onchange="no_bounce_update()" step="2" style="width:3em">
+    <label for="no-bounce-patch-height">rows</label>&nbsp;<input type="number" name="no-bounce-patch-width" id="no-bounce-patch-height" min="3" max="11" value="9" onchange="no_bounce_update()" style="width:3em">
     <br>
-    <a id="hex_no_bounce_link" href="#" target="_blank"><button type="button">show diagrams</button></a>
+    <a id="hex_no_bounce_link" href="#" target="_blank">
+        <button type="button">to pairs from threads</button>
+    </a>
 </form>
 <script>no_bounce_update();</script>
