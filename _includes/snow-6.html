@@ -6,12 +6,10 @@
 </head>
 
 <form>
-    <label for="no_bounce_blobs">Blobs:</label>
+    <label for="no_bounce_blobs">Start with the two pairs on the</label>
     <select id="no_bounce_plait">
-        <option value="cr">cr</option>
-        <option value="cl">cl</option>
-        <option value="lc" selected>lc</option>
-        <option value="rc">rc</option>
+        <option value="lc" selected>left</option>
+        <option value="rc">right</option>
     </select>
     <input value="tc,rclcrc,clcrcl,ct" type="text" id="no_bounce_blobs" width="35" spellcheck="false" onchange="no_bounce_update()">
     <br>
@@ -26,29 +24,23 @@
         <label for="no-bounce-pattern-honeycomb">honeycomb on its tip</label>
         <br>
         <select id="honeycomb_top_plait">
-            <option value="cl">cl</option>
-            <option value="cr">cr</option>
-            <option value="lc" selected>lc</option>
-            <option value="rc">rc</option>
+            <option value="lc" selected>left</option>
+            <option value="rc">right</option>
         </select>
         <input value="cl,ctc,ctc,rc" type="text" id="honeycomb_top_blobs" width="35" spellcheck="false" onchange="no_bounce_update()">
         <label for="honeycomb_top_blobs">(top|bottom)</label>
         <br>
         <select id="honeycomb_ne_plait">
-            <option value="cl">cl</option>
-            <option value="cr">cr</option>
-            <option value="lc" selected>lc</option>
-            <option value="rc">rc</option>
+            <option value="lc" selected>left</option>
+            <option value="rc">right</option>
         </select>
         <input value="cr,ctc,ctc,lc" type="text" id="honeycomb_ne_blobs" width="35" spellcheck="false" onchange="no_bounce_update()">
         <label for="honeycomb_ne_blobs">(ne/sw)</label>
         <button type="button" onclick="flipToNwSe()">flip to nw&bsol;se</button>
         <br>
         <select id="honeycomb_nw_plait">
-            <option value="cl">cl</option>
-            <option value="cr">cr</option>
-            <option value="lc" selected>lc</option>
-            <option value="rc">rc</option>
+            <option value="lc" selected>left</option>
+            <option value="rc">right</option>
         </select>
         <input value="cr,ctc,ctc,lc" type="text" id="honeycomb_nw_blobs" width="35" spellcheck="false" onchange="no_bounce_update()">
         <label for="honeycomb_nw_blobs">(nw&bsol;se)</label>
